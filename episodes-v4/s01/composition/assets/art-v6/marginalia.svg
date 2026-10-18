@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="s01-v6-marginalia" viewBox="0 0 1080 1920" fill="none" aria-hidden="true">
+  <!-- Original open botanical marginalia. Transparent field; no frame or lettering.
+       Every path has normalized length for deterministic draw-on animation.
+       Draw stems, then leaf contours, then veins; keep both sprigs at the margin. -->
+  <g id="s01-v6-marginalia-top" class="s01-v6-marginalia-corner" stroke-linecap="round" stroke-linejoin="round">
+    <g id="s01-v6-marginalia-top-stems" class="s01-v6-marginalia-stems" stroke="#B87552" stroke-width="2.2">
+      <path id="s01-v6-marginalia-top-stem" class="s01-v6-marginalia-draw s01-v6-marginalia-stem" pathLength="1" d="M76 192 C94 169 116 153 145 141 C185 125 231 120 271 87"/>
+      <path id="s01-v6-marginalia-top-tendril" class="s01-v6-marginalia-draw s01-v6-marginalia-tendril" pathLength="1" d="M135 145 C124 138 119 127 110 120 C100 112 87 112 83 120 C79 127 85 133 91 130 C95 128 95 124 92 123"/>
+    </g>
+    <g id="s01-v6-marginalia-top-leaves" class="s01-v6-marginalia-leaves" stroke="#283C33" stroke-width="1.75">
+      <path id="s01-v6-marginalia-top-leaf-1" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M105 163 C92 165 83 158 78 143 C84 143 88 144 92 148 L94 146 C100 151 104 157 105 163 Z"/>
+      <path id="s01-v6-marginalia-top-leaf-2" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M134 146 C120 140 115 132 116 117 C123 121 128 125 130 131 L133 131 C136 137 137 141 134 146 Z"/>
+      <path id="s01-v6-marginalia-top-leaf-3" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M155 137 C169 141 176 152 174 169 C167 166 163 161 161 156 L158 156 C155 149 154 143 155 137 Z"/>
+      <path id="s01-v6-marginalia-top-leaf-4" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M180 128 C166 124 158 115 158 101 C165 103 171 107 175 112 L178 111 C182 117 183 123 180 128 Z"/>
+      <path id="s01-v6-marginalia-top-leaf-5" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M210 119 C225 117 237 124 243 139 C235 140 230 138 225 135 L223 137 C216 132 212 126 210 119 Z"/>
+      <path id="s01-v6-marginalia-top-leaf-6" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M249 103 C247 91 257 82 277 81 C272 88 267 94 262 98 L263 101 C257 104 253 105 249 103 Z"/>
+    </g>
+    <g id="s01-v6-marginalia-top-veins" class="s01-v6-marginalia-veins" stroke="#B59A5B" stroke-width="1.15">
+      <path id="s01-v6-marginalia-top-vein-1" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M105 163 C96 158 87 151 80 145 M96 157 L88 157 M91 153 L90 148"/>
+      <path id="s01-v6-marginalia-top-vein-2" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M134 146 C128 137 121 128 117 120 M128 137 L121 135 M124 131 L126 126"/>
+      <path id="s01-v6-marginalia-top-vein-3" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M155 137 C162 146 169 157 173 167 M162 147 L169 148 M166 153 L163 158"/>
+      <path id="s01-v6-marginalia-top-vein-4" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M180 128 C172 121 165 111 160 103 M171 118 L164 117 M167 112 L170 108"/>
+      <path id="s01-v6-marginalia-top-vein-5" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M210 119 C220 123 230 129 241 138 M222 125 L226 121 M230 130 L230 136"/>
+      <path id="s01-v6-marginalia-top-vein-6" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M249 103 C258 94 266 87 275 82 M257 95 L252 93 M263 90 L268 92"/>
+    </g>
+    <g id="s01-v6-marginalia-top-etch" class="s01-v6-marginalia-etch" stroke="#283C33" stroke-width="0.9" opacity="0.64">
+      <path id="s01-v6-marginalia-top-hatch-1" class="s01-v6-marginalia-draw s01-v6-marginalia-hatch" pathLength="1" d="M98 159 L95 161 M101 158 L99 155 M129 141 L125 140 M131 138 L131 135 M166 157 L170 161 M166 151 L170 154"/>
+      <path id="s01-v6-marginalia-top-hatch-2" class="s01-v6-marginalia-draw s01-v6-marginalia-hatch" pathLength="1" d="M176 122 L172 122 M175 117 L178 118 M218 125 L218 128 M233 133 L238 134 M255 98 L254 96 M261 94 L264 95"/>
+    </g>
+  </g>
+  <g id="s01-v6-marginalia-bottom" class="s01-v6-marginalia-corner" stroke-linecap="round" stroke-linejoin="round">
+    <g id="s01-v6-marginalia-bottom-stems" class="s01-v6-marginalia-stems" stroke="#B87552" stroke-width="2.2">
+      <path id="s01-v6-marginalia-bottom-stem" class="s01-v6-marginalia-draw s01-v6-marginalia-stem" pathLength="1" d="M795 1752 C824 1737 839 1711 860 1690 C886 1663 931 1648 974 1605"/>
+      <path id="s01-v6-marginalia-bottom-tendril" class="s01-v6-marginalia-draw s01-v6-marginalia-tendril" pathLength="1" d="M870 1680 C888 1686 892 1702 907 1709 C919 1715 933 1712 934 1704 C935 1697 928 1694 924 1698 C921 1701 923 1705 926 1704"/>
+    </g>
+    <g id="s01-v6-marginalia-bottom-leaves" class="s01-v6-marginalia-leaves" stroke="#283C33" stroke-width="1.75">
+      <path id="s01-v6-marginalia-bottom-leaf-1" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M823 1732 C809 1733 799 1726 792 1710 C799 1711 805 1713 809 1717 L812 1715 C819 1721 822 1726 823 1732 Z"/>
+      <path id="s01-v6-marginalia-bottom-leaf-2" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M839 1713 C851 1715 859 1724 860 1741 C853 1739 848 1736 846 1731 L843 1732 C839 1725 837 1719 839 1713 Z"/>
+      <path id="s01-v6-marginalia-bottom-leaf-3" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M862 1688 C848 1683 840 1673 840 1658 C846 1660 852 1664 856 1669 L859 1668 C864 1675 866 1682 862 1688 Z"/>
+      <path id="s01-v6-marginalia-bottom-leaf-4" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M892 1663 C903 1661 914 1665 922 1678 C915 1681 909 1680 905 1677 L902 1679 C896 1674 893 1669 892 1663 Z"/>
+      <path id="s01-v6-marginalia-bottom-leaf-5" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M927 1644 C916 1639 912 1630 916 1616 C922 1620 927 1625 928 1630 L931 1631 C932 1637 931 1641 927 1644 Z"/>
+      <path id="s01-v6-marginalia-bottom-leaf-6" class="s01-v6-marginalia-draw s01-v6-marginalia-leaf" pathLength="1" d="M953 1624 C952 1612 962 1603 977 1602 C974 1609 969 1615 965 1618 L966 1621 C961 1625 957 1626 953 1624 Z"/>
+    </g>
+    <g id="s01-v6-marginalia-bottom-veins" class="s01-v6-marginalia-veins" stroke="#B59A5B" stroke-width="1.15">
+      <path id="s01-v6-marginalia-bottom-vein-1" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M823 1732 C813 1727 802 1718 794 1712 M813 1726 L805 1725 M807 1721 L808 1717"/>
+      <path id="s01-v6-marginalia-bottom-vein-2" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M839 1713 C848 1721 854 1730 859 1739 M847 1721 L853 1722 M851 1728 L848 1733"/>
+      <path id="s01-v6-marginalia-bottom-vein-3" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M862 1688 C853 1678 846 1668 842 1660 M854 1678 L847 1677 M850 1671 L853 1667"/>
+      <path id="s01-v6-marginalia-bottom-vein-4" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M892 1663 C901 1666 911 1671 920 1678 M902 1667 L906 1664 M910 1672 L909 1678"/>
+      <path id="s01-v6-marginalia-bottom-vein-5" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M927 1644 C922 1634 919 1626 917 1618 M922 1633 L917 1632 M921 1628 L925 1627"/>
+      <path id="s01-v6-marginalia-bottom-vein-6" class="s01-v6-marginalia-draw s01-v6-marginalia-vein" pathLength="1" d="M953 1624 C960 1616 968 1608 975 1603 M960 1616 L956 1613 M965 1612 L970 1612"/>
+    </g>
+    <g id="s01-v6-marginalia-bottom-etch" class="s01-v6-marginalia-etch" stroke="#283C33" stroke-width="0.9" opacity="0.64">
+      <path id="s01-v6-marginalia-bottom-hatch-1" class="s01-v6-marginalia-draw s01-v6-marginalia-hatch" pathLength="1" d="M818 1729 L814 1730 M814 1725 L815 1722 M850 1729 L854 1733 M851 1725 L855 1727 M858 1683 L855 1683 M856 1677 L860 1679"/>
+      <path id="s01-v6-marginalia-bottom-hatch-2" class="s01-v6-marginalia-draw s01-v6-marginalia-hatch" pathLength="1" d="M899 1668 L899 1671 M914 1674 L918 1674 M925 1639 L922 1638 M925 1633 L928 1634 M957 1620 L956 1618 M964 1616 L967 1616"/>
+    </g>
+  </g>
+</svg>

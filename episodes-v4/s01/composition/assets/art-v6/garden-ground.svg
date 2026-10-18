@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="s01-ground" viewBox="0 0 1080 1920" fill="none" aria-hidden="true">
+  <!-- Original light engraving of garden soil and a root system.
+       The stem/root junction is (320,1370). No fill or closed ground plane. -->
+  <g id="s01-ground-surface" stroke="#8A6144" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.42">
+    <path id="s01-ground-horizon-left" class="ground-draw ground-surface" pathLength="1" d="M74 1390 C113 1388 139 1380 172 1379 C216 1378 267 1372 314 1375"/>
+    <path id="s01-ground-horizon-right" class="ground-draw ground-surface" pathLength="1" d="M326 1375 C368 1371 407 1377 441 1379 C480 1382 519 1377 561 1385"/>
+    <path id="s01-ground-surface-fold-left" class="ground-draw ground-surface-detail" pathLength="1" d="M132 1391 C160 1388 185 1390 204 1386 M249 1383 C268 1380 281 1380 295 1381"/>
+    <path id="s01-ground-surface-fold-right" class="ground-draw ground-surface-detail" pathLength="1" d="M348 1382 C365 1380 383 1382 395 1384 M461 1389 C485 1385 512 1388 529 1389"/>
+  </g>
+  <g id="s01-ground-roots" stroke="#283C33" stroke-linecap="round" stroke-linejoin="round">
+    <g id="s01-ground-primary" stroke-width="1.9" opacity="0.64">
+      <path id="s01-ground-stem" class="ground-draw ground-stem" pathLength="1" d="M320 1352 C318 1359 319 1364 320 1370"/>
+      <path id="s01-ground-taproot" class="ground-draw ground-root-primary" pathLength="1" d="M320 1370 C317 1395 330 1414 325 1438 C320 1461 318 1484 305 1508"/>
+    </g>
+    <g id="s01-ground-branches" stroke-width="1.35" opacity="0.52">
+      <path id="s01-ground-branch-left-upper" class="ground-draw ground-root-branch" pathLength="1" d="M320 1394 C302 1405 283 1408 272 1425 C256 1449 226 1463 198 1471 C183 1475 171 1483 160 1492"/>
+      <path id="s01-ground-branch-right-upper" class="ground-draw ground-root-branch" pathLength="1" d="M326 1418 C347 1419 360 1433 378 1440 C402 1450 411 1474 437 1482 C449 1485 461 1494 469 1505"/>
+      <path id="s01-ground-branch-left-lower" class="ground-draw ground-root-branch" pathLength="1" d="M322 1450 C305 1455 296 1469 278 1473 C264 1477 252 1495 236 1509"/>
+      <path id="s01-ground-branch-right-lower" class="ground-draw ground-root-branch" pathLength="1" d="M319 1470 C334 1473 344 1483 355 1487 C369 1491 383 1498 389 1509"/>
+      <path id="s01-ground-branch-left-fork" class="ground-draw ground-root-branch" pathLength="1" d="M271 1427 C250 1425 235 1437 217 1438 C195 1440 180 1455 162 1459"/>
+      <path id="s01-ground-branch-right-fork" class="ground-draw ground-root-branch" pathLength="1" d="M378 1440 C398 1434 414 1446 431 1449 C446 1451 457 1464 470 1467"/>
+    </g>
+    <g id="s01-ground-rootlets" stroke-width="0.95" opacity="0.43">
+      <path id="s01-ground-rootlet-01" class="ground-draw ground-rootlet" pathLength="1" d="M298 1407 C294 1418 297 1428 289 1439 C284 1446 284 1452 279 1458"/>
+      <path id="s01-ground-rootlet-02" class="ground-draw ground-rootlet" pathLength="1" d="M246 1449 C245 1461 235 1467 233 1477 C230 1486 220 1492 216 1502"/>
+      <path id="s01-ground-rootlet-03" class="ground-draw ground-rootlet" pathLength="1" d="M202 1470 C199 1482 187 1488 187 1504"/>
+      <path id="s01-ground-rootlet-04" class="ground-draw ground-rootlet" pathLength="1" d="M178 1481 C165 1477 157 1480 150 1477"/>
+      <path id="s01-ground-rootlet-05" class="ground-draw ground-rootlet" pathLength="1" d="M229 1438 C221 1427 213 1425 204 1426"/>
+      <path id="s01-ground-rootlet-06" class="ground-draw ground-rootlet" pathLength="1" d="M188 1445 C185 1438 178 1435 171 1436"/>
+      <path id="s01-ground-rootlet-07" class="ground-draw ground-rootlet" pathLength="1" d="M347 1425 C350 1414 358 1409 368 1408"/>
+      <path id="s01-ground-rootlet-08" class="ground-draw ground-rootlet" pathLength="1" d="M363 1435 C363 1450 353 1459 357 1471"/>
+      <path id="s01-ground-rootlet-09" class="ground-draw ground-rootlet" pathLength="1" d="M409 1468 C402 1476 404 1486 399 1494"/>
+      <path id="s01-ground-rootlet-10" class="ground-draw ground-rootlet" pathLength="1" d="M443 1484 C445 1475 453 1471 460 1472"/>
+      <path id="s01-ground-rootlet-11" class="ground-draw ground-rootlet" pathLength="1" d="M429 1449 C433 1438 443 1436 448 1430"/>
+      <path id="s01-ground-rootlet-12" class="ground-draw ground-rootlet" pathLength="1" d="M284 1472 C281 1486 286 1495 280 1506"/>
+      <path id="s01-ground-rootlet-13" class="ground-draw ground-rootlet" pathLength="1" d="M340 1479 C336 1491 340 1499 336 1510"/>
+      <path id="s01-ground-rootlet-14" class="ground-draw ground-rootlet" pathLength="1" d="M311 1494 C304 1495 298 1500 294 1508"/>
+    </g>
+  </g>
+  <g id="s01-ground-soil" stroke="#8A6144" stroke-linecap="round" stroke-linejoin="round">
+    <g id="s01-ground-strata" stroke-width="1.05" opacity="0.2">
+      <path id="s01-ground-stratum-1" class="ground-draw ground-stratum" pathLength="1" d="M91 1431 C119 1427 141 1430 153 1428 M478 1423 C504 1425 526 1422 547 1427"/>
+      <path id="s01-ground-stratum-2" class="ground-draw ground-stratum" pathLength="1" d="M102 1483 C124 1479 137 1481 146 1479 M481 1490 C505 1485 526 1488 541 1485"/>
+      <path id="s01-ground-stratum-3" class="ground-draw ground-stratum" pathLength="1" d="M149 1534 C189 1539 210 1529 246 1533 M376 1535 C407 1531 440 1538 476 1532"/>
+      <path id="s01-ground-stratum-4" class="ground-draw ground-stratum" pathLength="1" d="M230 1566 C269 1572 304 1568 333 1571 C353 1573 376 1567 394 1569"/>
+    </g>
+    <g id="s01-ground-hatching" stroke-width="0.85" opacity="0.24">
+      <path id="s01-ground-hatch-1" class="ground-draw ground-hatch" pathLength="1" d="M98 1408 L104 1404 M111 1410 L116 1407 M142 1414 L148 1411 M165 1403 L169 1400"/>
+      <path id="s01-ground-hatch-2" class="ground-draw ground-hatch" pathLength="1" d="M212 1401 L217 1398 M230 1411 L236 1407 M265 1399 L269 1397 M283 1389 L288 1387"/>
+      <path id="s01-ground-hatch-3" class="ground-draw ground-hatch" pathLength="1" d="M383 1398 L389 1395 M410 1406 L415 1403 M443 1401 L449 1397 M496 1407 L501 1405"/>
+      <path id="s01-ground-hatch-4" class="ground-draw ground-hatch" pathLength="1" d="M113 1455 L118 1452 M129 1457 L133 1455 M156 1437 L160 1434 M495 1453 L501 1450 M519 1467 L524 1464"/>
+      <path id="s01-ground-hatch-5" class="ground-draw ground-hatch" pathLength="1" d="M121 1511 L127 1508 M146 1521 L152 1518 M169 1514 L174 1511 M488 1516 L493 1513 M515 1505 L520 1503"/>
+      <path id="s01-ground-hatch-6" class="ground-draw ground-hatch" pathLength="1" d="M209 1524 L214 1520 M263 1520 L268 1517 M327 1531 L333 1528 M359 1521 L364 1518 M430 1518 L436 1515"/>
+      <path id="s01-ground-hatch-7" class="ground-draw ground-hatch" pathLength="1" d="M192 1552 L198 1549 M216 1559 L221 1556 M279 1545 L284 1542 M304 1553 L309 1550 M367 1550 L373 1547 M420 1557 L425 1554"/>
+    </g>
+  </g>
+</svg>

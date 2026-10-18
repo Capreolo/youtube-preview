@@ -1,0 +1,338 @@
+{
+  "schema": "philosophy-art-sources/4",
+  "episode": "s01",
+  "retrieved": "2026-10-18",
+  "asset_count": 6,
+  "paid_generation_calls": 0,
+  "paid_search_calls": 0,
+  "screenshots": 0,
+  "audio_modified": false,
+  "attribution_policy": "Asset credits and URLs belong in repository/source records; no museum/file-name credits inside the video. No listed CC0/PD image requires an on-screen attribution.",
+  "assets": [
+    {
+      "id": "rose-botanical",
+      "title": "Provence or French Rose",
+      "inscribed_title": "Rosa Gallica agatha. (Varietas parva violacea.) / La petite Renoncule violette.",
+      "creator": "Henri Joseph Redouté (French, 1766–1853)",
+      "date": "1817–1824",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1943.139",
+      "page_url": "https://www.clevelandart.org/art/1943.139",
+      "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1943.139",
+      "download_url": "https://openaccess-cdn.clevelandart.org/1943.139/1943.139_full.tif",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "rights_evidence": {
+        "share_license_status": "CC0",
+        "copyright": null
+      },
+      "credit_line": "Gift of The Print Club of Cleveland, for the Donald Gray Memorial Collection",
+      "role": "Primary carmine rose, botanical structure, petals, leaves, stem and thorns.",
+      "attribution_note": "Catalogue credits Henri Joseph Redouté. The plate itself reads P.J. Redouté pinx.; retain this distinction rather than silently substituting artist or species. Film need not display or pronounce this catalogue material.",
+      "file_conversion": "Full museum TIFF decoded to JPEG with bundled FFmpeg (-q:v 2), preserving full 4331x5861 dimensions; no crop, repaint, recolouring or generation.",
+      "source_tiff_sha256": "31dc3ca36be17469ec1d516f32b444c863cbafa22e277679ca7fd119db07e303",
+      "suggested_regions_normalized": {
+        "whole_specimen_without_plate_credits": [
+          0.17,
+          0.17,
+          0.68,
+          0.64
+        ],
+        "main_carmine_bloom": [
+          0.395,
+          0.165,
+          0.24,
+          0.17
+        ],
+        "stem_and_thorns": [
+          0.39,
+          0.34,
+          0.17,
+          0.29
+        ]
+      },
+      "file": "motion/assets/art-v4/redoute-rosa-gallica-agatha-1817-24-cma.jpg",
+      "bytes": 5409947,
+      "sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "width": 4331,
+      "height": 5861,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    },
+    {
+      "id": "rose-still-life",
+      "title": "Roses and Lilies",
+      "creator": "Henri Fantin-Latour",
+      "date": "1888",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "2001.202.4",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437996",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437996",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DT9200.jpg",
+      "license": "CC0 1.0 / public-domain artwork image",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 2001, Bequest of Walter H. Annenberg, 2002",
+      "role": "Closing still life / painted material richness. Use the lower roses, not the lilies, for a rose-specific shot.",
+      "suggested_regions_normalized": {
+        "lower_roses": [
+          0.125,
+          0.58,
+          0.63,
+          0.345
+        ],
+        "central_rose_close": [
+          0.39,
+          0.7,
+          0.24,
+          0.21
+        ]
+      },
+      "file": "motion/assets/art-v4/fantin-latour-roses-lilies-1888-met.jpg",
+      "bytes": 3904220,
+      "sha256": "9b58b985ebd8b1b9a6c18da3ec9f674571cdc7ca97770fec03919f78dfe1a96e",
+      "width": 2879,
+      "height": 3722,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    },
+    {
+      "id": "subject-reflecting",
+      "title": "The Reader",
+      "creator": "Eglon van der Neer",
+      "date": "Early 1660s (museum catalogue discussion); API date field empty",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "32.100.9",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437193",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437193",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DP146484.jpg",
+      "license": "CC0 1.0 / public-domain artwork image",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+      "role": "Human subject in an act of reflective reading; includes eye direction, hands, book, table, ink and candle. Not a portrait of Diego Mas.",
+      "suggested_regions_normalized": {
+        "subject_face": [
+          0.13,
+          0.245,
+          0.32,
+          0.27
+        ],
+        "reader_with_book": [
+          0.08,
+          0.245,
+          0.68,
+          0.64
+        ],
+        "hand_on_book": [
+          0.44,
+          0.565,
+          0.265,
+          0.14
+        ]
+      },
+      "file": "motion/assets/art-v4/van-der-neer-the-reader-met.jpg",
+      "bytes": 2002662,
+      "sha256": "b2e17ccd1cb5689eb6f31942edf1d0b760567f62a1aa770f3e0389f61ea92613",
+      "width": 2848,
+      "height": 3850,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    },
+    {
+      "id": "hands-study",
+      "title": "Study of a Woman's Head and Hands",
+      "creator": "Antoine Watteau",
+      "date": "ca. 1717",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "2012.150.1",
+      "page_url": "https://www.metmuseum.org/art/collection/search/408989",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/408989",
+      "download_url": "https://images.metmuseum.org/CRDImages/dp/original/DP823291.jpg",
+      "license": "CC0 1.0 / public-domain artwork image",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Gift of Mrs. Charles Wrightsman, 2012",
+      "role": "Classical anatomical study of head and articulate hands; tactile counterpoint to the rose. No digital imitation of a hand.",
+      "suggested_regions_normalized": {
+        "lower_hand_studies": [
+          0.15,
+          0.635,
+          0.7,
+          0.32
+        ],
+        "face_profile": [
+          0.22,
+          0.065,
+          0.6,
+          0.48
+        ]
+      },
+      "file": "motion/assets/art-v4/watteau-head-and-hands-ca1717-met.jpg",
+      "bytes": 2046057,
+      "sha256": "e152d2cc837c5320d77de8f6dd867e434c3defa72a999f3c78dbd87c5fe3ca33",
+      "width": 1321,
+      "height": 1993,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    },
+    {
+      "id": "human-gaze",
+      "title": "Study of a Young Woman",
+      "creator": "Johannes Vermeer",
+      "date": "ca. 1665–67",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "1979.396.1",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437879",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437879",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DP353256.jpg",
+      "license": "CC0 1.0 / public-domain artwork image",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Gift of Mr. and Mrs. Charles Wrightsman, in memory of Theodore Rousseau Jr., 1979",
+      "role": "Painted gaze / visual attention, kept as an artwork. Do not identify the sitter as Diego Mas or animate new eye/facial actions.",
+      "suggested_regions_normalized": {
+        "face_and_eyes": [
+          0.31,
+          0.18,
+          0.39,
+          0.41
+        ],
+        "eye_band": [
+          0.335,
+          0.325,
+          0.245,
+          0.115
+        ]
+      },
+      "file": "motion/assets/art-v4/vermeer-study-young-woman-ca1665-met.jpg",
+      "bytes": 3111487,
+      "sha256": "e36184c22ef6b2719c76185328722899c03d8fba95171962da7d6625898d2fd4",
+      "width": 3454,
+      "height": 3866,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    },
+    {
+      "id": "living-garden",
+      "title": "The Artist's House at Argenteuil",
+      "creator": "Claude Monet",
+      "date": "1873",
+      "institution": "Art Institute of Chicago",
+      "accession": "1933.1153",
+      "page_url": "https://www.artic.edu/artworks/16554/the-artists-house-at-argenteuil",
+      "metadata_url": "https://api.artic.edu/api/v1/artworks/16554",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Claude_Monet_-_The_Artist%27s_House_at_Argenteuil_-_1933.1153_-_Art_Institute_of_Chicago.jpg",
+      "mirror_page_url": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Artist%27s_House_at_Argenteuil_-_1933.1153_-_Art_Institute_of_Chicago.jpg",
+      "license": "Public domain (Commons faithful reproduction); museum API marks artwork public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "rights_policy_url": "https://www.artic.edu/open-access/open-access-images",
+      "rights_evidence": {
+        "museum_is_public_domain": true,
+        "commons_LicenseShortName": "Public domain",
+        "commons_Copyrighted": "False",
+        "commons_AttributionRequired": "false"
+      },
+      "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+      "download_note": "Official AIC IIIF endpoint returned HTTP403; acquired the Commons mirror specifically credited to AIC accession1933.1153. Earlier 945px general mirror was replaced with the museum-source 3000x2440 file.",
+      "role": "A living garden as a place outside the knower; use as illustrative garden, not Diego Mas’s garden, a botanical record of the hero cultivar or a reconstruction of his time.",
+      "suggested_regions_normalized": {
+        "planted_garden": [
+          0.0,
+          0.08,
+          0.81,
+          0.84
+        ],
+        "house_and_flower_pots": [
+          0.4,
+          0.15,
+          0.59,
+          0.8
+        ]
+      },
+      "file": "motion/assets/art-v4/monet-artists-house-argenteuil-1873-aic.jpg",
+      "bytes": 4492357,
+      "sha256": "f512c842fc47d46c57469284d07caef2068953bece1123f93220b9c406963fb8",
+      "width": 3000,
+      "height": 2440,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture."
+    }
+  ],
+  "proposed_sequence": [
+    {
+      "beat": "s01-01",
+      "spoken": "A rose has thorns ... no thorn grows inside your mind.",
+      "assets": [
+        "rose-botanical",
+        "human-gaze"
+      ],
+      "direction": "Start on the real engraved thorn/stem, reveal the carmine corolla, then cut to the painted gaze. Let the exact painting texture replace generic line-art diagrams."
+    },
+    {
+      "beat": "s01-02",
+      "spoken": "Knowing is not swallowing the object ... matter stays outside.",
+      "assets": [
+        "hands-study",
+        "rose-botanical"
+      ],
+      "direction": "A close view of Watteau’s open fingers alongside a separate solid botanical stem; keep both real source images distinguishable, with an elegant editorial wipe rather than fake plant transfer."
+    },
+    {
+      "beat": "s01-03",
+      "spoken": "The living plant exists in the garden ... act of understanding.",
+      "assets": [
+        "living-garden",
+        "subject-reflecting"
+      ],
+      "direction": "Travel through the painted outdoor garden, then make a clear cut into the reader’s interior and upturned face. No speculative historical identification."
+    },
+    {
+      "beat": "s01-04",
+      "spoken": "Different modes of presence ... not two little plants.",
+      "assets": [
+        "subject-reflecting",
+        "rose-botanical"
+      ],
+      "direction": "Keep the human subject and singular rose concrete; the visible artistic composition is an analogy, not an anatomical picture of a rose literally inside a head."
+    },
+    {
+      "beat": "s01-05",
+      "spoken": "Understanding reaches the rose itself through a likeness.",
+      "assets": [
+        "human-gaze",
+        "rose-botanical"
+      ],
+      "direction": "Relate painted eye direction to the unchanged flower, then return emphasis to the flower itself. Do not make the portrait blink or act."
+    },
+    {
+      "beat": "s01-06",
+      "spoken": "Form of another thing without becoming that thing materially.",
+      "assets": [
+        "rose-still-life",
+        "rose-botanical"
+      ],
+      "direction": "Use the lower painted roses as a rich material conclusion, then resolve on the single carmine hero bloom; do not equate knowledge with an inner pictorial theatre."
+    }
+  ],
+  "limits": [
+    "These are acquired historical artworks, not AI-generated scenes or moving-footage takes.",
+    "Suggested regions are editorial guidance in normalized source coordinates, not baked image edits.",
+    "An eye-band crop has fewer source pixels than the full portrait: avoid enlarging it across the entire full-resolution vertical frame.",
+    "The botanical plate has fine, naturally small thorns; use stem-and-leaf close views rather than implying microscopic thorn photography.",
+    "Main editor chooses final integration, motion and delivery. No composition, audio or thumbnail was edited in this acquisition task."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "method": "Bundled FFmpeg libwebp, quality 88, maximum edge 2560, full uncropped image; source originals retained in private production.",
+  "assets": [
+    {
+      "episode": "s01",
+      "source_file": "fantin-latour-roses-lilies-1888-met.jpg",
+      "source_sha256": "9b58b985ebd8b1b9a6c18da3ec9f674571cdc7ca97770fec03919f78dfe1a96e",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/fantin-latour-roses-lilies-1888-met.webp",
+      "source_bytes": 3904220,
+      "delivery_bytes": 1749326,
+      "delivery_sha256": "492b4c1c30795bbd9a13b08a21a31faac434ce18d133d8d84232517e38df3515"
+    },
+    {
+      "episode": "s01",
+      "source_file": "monet-artists-house-argenteuil-1873-aic.jpg",
+      "source_sha256": "f512c842fc47d46c57469284d07caef2068953bece1123f93220b9c406963fb8",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/monet-artists-house-argenteuil-1873-aic.webp",
+      "source_bytes": 4492357,
+      "delivery_bytes": 2442170,
+      "delivery_sha256": "51cbc28e2015ba89c7190e7e71f1e855d6f533685d3cab2ad1990776eed48237"
+    },
+    {
+      "episode": "s01",
+      "source_file": "redoute-rosa-gallica-agatha-1817-24-cma.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/redoute-rosa-gallica-agatha-1817-24-cma.webp",
+      "source_bytes": 5409947,
+      "delivery_bytes": 458544,
+      "delivery_sha256": "2abb863fe531f1c577a334b15831f2298dd20db45a1c546c27cbc459abce860d"
+    },
+    {
+      "episode": "s01",
+      "source_file": "van-der-neer-the-reader-met.jpg",
+      "source_sha256": "b2e17ccd1cb5689eb6f31942edf1d0b760567f62a1aa770f3e0389f61ea92613",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/van-der-neer-the-reader-met.webp",
+      "source_bytes": 2002662,
+      "delivery_bytes": 516574,
+      "delivery_sha256": "061b16f9b81379576069752349e5a938c73358351d66d1f5b8b2d20e0cd91eec"
+    },
+    {
+      "episode": "s01",
+      "source_file": "vermeer-study-young-woman-ca1665-met.jpg",
+      "source_sha256": "e36184c22ef6b2719c76185328722899c03d8fba95171962da7d6625898d2fd4",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/vermeer-study-young-woman-ca1665-met.webp",
+      "source_bytes": 3111487,
+      "delivery_bytes": 971372,
+      "delivery_sha256": "70c5517a0a8634be927de7097cfe7d81ef2c204c34e1a2e6e713b07808427b15"
+    },
+    {
+      "episode": "s01",
+      "source_file": "watteau-head-and-hands-ca1717-met.jpg",
+      "source_sha256": "e152d2cc837c5320d77de8f6dd867e434c3defa72a999f3c78dbd87c5fe3ca33",
+      "delivery_file": "episodes-v4/s01/composition/assets/art-v4/watteau-head-and-hands-ca1717-met.webp",
+      "source_bytes": 2046057,
+      "delivery_bytes": 493156,
+      "delivery_sha256": "66db3f15545045b633dc061836e52dd147c26dedd586f3404242cb78113a8ce7"
+    }
+  ]
+}

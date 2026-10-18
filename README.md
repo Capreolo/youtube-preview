@@ -1,3 +1,7 @@
+# Preview update: S01 art revision 4
+
+S01 now has six art-led scenes, 58-second slower narration and a quieter music mix. Four long episodes are still on visual revision 2 while their next revision is checked. No final MP4 has been rendered.
+
 # Canal de Filosofia — five working previews · visual revision 2
 
 Static review site for the channel's first episodes. Revision 2 adds individually directed palettes, original corner ornaments and more detailed explanatory illustrations:
@@ -8,7 +12,7 @@ Static review site for the channel's first episodes. Revision 2 adds individuall
 | C1 | Analogy: From Proportion to Being | 16:9, 1920 × 1080 | 6:57 |
 | O0 | The Architecture of Saint Thomas Aquinas’s Works | 16:9, 1920 × 1080 | 7:00 |
 | PS01 | Thales of Miletus: Why Water? | 16:9, 1920 × 1080 | 6:53 |
-| S01 | A Rose in the Mind Has No Thorns | 9:16, 1080 × 1920 | 0:44 |
+| S01 | A Rose in the Mind Has No Thorns | 9:16, 1080 × 1920 | 0:58 |
 
 These are live HTML compositions for review, not final exported MP4s. Narration is in English. Each episode includes its current narration/music mix and YouTube thumbnail.
 

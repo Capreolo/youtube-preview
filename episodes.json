@@ -6,7 +6,8 @@
     "duration": "6:38",
     "seconds": 397.92,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "visual_revision": 2
   },
   {
     "id": "c1",
@@ -15,7 +16,8 @@
     "duration": "6:57",
     "seconds": 417.04,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "visual_revision": 2
   },
   {
     "id": "o0",
@@ -24,7 +26,8 @@
     "duration": "7:00",
     "seconds": 419.68,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "visual_revision": 2
   },
   {
     "id": "ps01",
@@ -33,15 +36,17 @@
     "duration": "6:53",
     "seconds": 413.44,
     "width": 1920,
-    "height": 1080
+    "height": 1080,
+    "visual_revision": 2
   },
   {
     "id": "s01",
     "title": "A Rose in the Mind Has No Thorns",
     "series": "Short",
-    "duration": "0:44",
-    "seconds": 43.76,
+    "duration": "0:58",
+    "seconds": 58,
     "width": 1080,
-    "height": 1920
+    "height": 1920,
+    "visual_revision": 4
   }
 ]

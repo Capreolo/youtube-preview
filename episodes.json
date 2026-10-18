@@ -1,0 +1,47 @@
+[
+  {
+    "id": "f1",
+    "title": "What Is Philosophy?",
+    "series": "Filosofia",
+    "duration": "6:38",
+    "seconds": 397.92,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "c1",
+    "title": "Analogy: From Proportion to Being",
+    "series": "Conceitos",
+    "duration": "6:57",
+    "seconds": 417.04,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "o0",
+    "title": "The Architecture of Saint Thomas Aquinas’s Works",
+    "series": "Obras",
+    "duration": "7:00",
+    "seconds": 419.68,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "ps01",
+    "title": "Thales of Miletus: Why Water?",
+    "series": "Pensadores",
+    "duration": "6:53",
+    "seconds": 413.44,
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "s01",
+    "title": "A Rose in the Mind Has No Thorns",
+    "series": "Short",
+    "duration": "0:44",
+    "seconds": 43.76,
+    "width": 1080,
+    "height": 1920
+  }
+]

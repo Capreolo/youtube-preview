@@ -1,6 +1,6 @@
-# Canal de Filosofia — five working previews
+# Canal de Filosofia — five working previews · visual revision 2
 
-Static review site for the channel's first episodes:
+Static review site for the channel's first episodes. Revision 2 adds individually directed palettes, original corner ornaments and more detailed explanatory illustrations:
 
 | Episode | Title | Screen | Current duration |
 | --- | --- | --- | --- |

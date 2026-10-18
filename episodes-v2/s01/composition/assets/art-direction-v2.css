@@ -1,0 +1,28 @@
+:root,.chapter{--bg:#E9E3D3!important;--fg:#243A30!important;--accent:#8B3848!important;--secondary:#4C6D55!important;--surface:#DDD9C6!important;--surface-high:#FFF5E3!important;--surface-low:#C7CEB6!important;--stone-light:#DAD9C8!important;--stone-mid:#B6C1AD!important;--stone-dark:#7E9280!important;--stone-edge:#5B7664!important;--water-light:#6C9F9A!important;--water-dark:#294F53!important;--metal:#A06F46!important;--metal-light:#CBA67A!important;--metal-shadow:#6F4E36!important;--ink:#243A30!important;--ornament:#52715A!important;--ornament-inlay:#AA7854!important;--ambient:#FFFAE975!important;--ground-light:#FFF9E465!important;--ground-dark:#4C6D5518!important;--beat-light:#56795108!important;--type-shadow:#FFFFFF70!important;--leaf-wash:#5E7B4D44!important;}
+/* Original, restrained period ornament; main artwork keeps the teaching space. */
+#root,.chapter{background:var(--bg);color:var(--fg)}
+.chapter{background-image:radial-gradient(ellipse at 36% 33%,var(--ambient),transparent 66%),linear-gradient(125deg,var(--ground-light),transparent 47%,var(--ground-dark));isolation:isolate}
+.craft-ground,.craft-frame{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.craft-ground{z-index:0}.craft-frame{z-index:6;overflow:visible}
+.craft-frame .engrave{fill:none;stroke:var(--ornament);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round;opacity:.9}
+.craft-frame .filigree{fill:none;stroke:var(--ornament);stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;opacity:.8}
+.craft-frame .ornament-inlay{fill:var(--ornament-inlay);stroke:var(--ornament);stroke-width:1;opacity:.88}
+.craft-frame .ornament-disc{fill:var(--ornament-inlay);stroke:var(--ornament);stroke-width:1.4}
+.craft-frame .botanical-leaf{fill:var(--leaf-wash);stroke:var(--ornament);stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+.craft-frame .frame-rule{fill:none;stroke:var(--ornament);stroke-width:.85;opacity:.48}
+.beat{z-index:2;background:radial-gradient(ellipse at 63% 46%,var(--beat-light),transparent 69%)}
+.heading{left:150px;right:150px;top:98px;font-size:72px;line-height:1.04;letter-spacing:-.015em;text-shadow:0 1px 0 var(--type-shadow)}
+.diagram{left:105px;top:190px;width:1710px;height:760px}
+.diagram text{fill:var(--fg);text-shadow:0 1px 0 var(--type-shadow)}
+.diagram .term{fill:var(--accent)}
+.diagram .line{stroke:var(--accent);stroke-width:2.7}
+.diagram .soft{stroke:var(--secondary);opacity:.78;stroke-width:1.6}
+.diagram .surface,.diagram .node{stroke:var(--accent);stroke-width:1.7}
+.diagram rect.node{rx:9px}
+.diagram .stone{stroke:var(--stone-edge);stroke-width:1.7}
+.diagram .water{stroke:var(--water-light)}
+.diagram .waterline{stroke:var(--water-light)}
+.diagram .ink{fill:#30211A;text-shadow:none}
+.portrait .heading{left:88px;right:110px;top:190px;font-size:91px}
+.portrait .diagram{left:60px;top:520px;width:960px;height:1120px}
+.portrait .craft-frame .frame-rule{opacity:.4}

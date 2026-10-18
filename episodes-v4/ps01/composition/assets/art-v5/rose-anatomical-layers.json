@@ -1,0 +1,139 @@
+{
+  "file": "redoute-rose.jpg",
+  "width": 4331,
+  "height": 5861,
+  "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+  "mask": "redoute-rose-mask.svg",
+  "layers": [
+    {
+      "mask": "s01-rose-base-mask.svg",
+      "bbox": [
+        1162,
+        1760,
+        2189,
+        2872
+      ],
+      "path_vertices": 7332,
+      "compound_subpaths": 29,
+      "mask_sha256": "0c48033f728c19133cf86a088e95da7df8d66b6b3d75c9b33d40b294210c3b70",
+      "id": "base",
+      "pivot": [
+        2154,
+        3650
+      ],
+      "role": "base",
+      "max_rotation_deg": 0
+    },
+    {
+      "mask": "s01-rose-main-bloom-mask.svg",
+      "bbox": [
+        1842,
+        1113,
+        930,
+        824
+      ],
+      "path_vertices": 851,
+      "compound_subpaths": 2,
+      "mask_sha256": "8f1c5775bc72ff4954e8bc39d1c49beed162eec245063b7947ec722578c8078f",
+      "id": "main-bloom",
+      "pivot": [
+        2095,
+        1938
+      ],
+      "role": "main open bloom and its real calyx/short neck",
+      "max_rotation_deg": 0.85,
+      "transform_kind": "subtle local hinge; not growth/time-lapse"
+    },
+    {
+      "mask": "s01-rose-left-bud-mask.svg",
+      "bbox": [
+        921,
+        2103,
+        425,
+        471
+      ],
+      "path_vertices": 554,
+      "compound_subpaths": 1,
+      "mask_sha256": "b5f1de18b965270b8c8e66f76b8e1e6375e470f172239fc28ea445d593738f96",
+      "id": "left-bud",
+      "pivot": [
+        1345,
+        2555
+      ],
+      "role": "left bud, sepals and short pedicel",
+      "max_rotation_deg": 1.2,
+      "transform_kind": "subtle local hinge; not growth/time-lapse"
+    },
+    {
+      "mask": "s01-rose-right-bud-mask.svg",
+      "bbox": [
+        3018,
+        2066,
+        418,
+        403
+      ],
+      "path_vertices": 507,
+      "compound_subpaths": 1,
+      "mask_sha256": "8cf9db27d590d85c344944e3d19804afe35981e6e590b59fd1e63c2a9a7f4cf9",
+      "id": "right-bud",
+      "pivot": [
+        3095,
+        2460
+      ],
+      "role": "right bud, sepals and short pedicel",
+      "max_rotation_deg": 1.2,
+      "transform_kind": "subtle local hinge; not growth/time-lapse"
+    },
+    {
+      "mask": "s01-rose-upper-left-leaf-mask.svg",
+      "bbox": [
+        1467,
+        1594,
+        625,
+        418
+      ],
+      "path_vertices": 734,
+      "compound_subpaths": 8,
+      "mask_sha256": "578a3a251f8de5d53f5682f5cf0d304468e02cbd1cf134a0f8a1ff3d8cfa0b2d",
+      "id": "upper-left-leaf",
+      "pivot": [
+        2080,
+        1970
+      ],
+      "role": "upper left compound leaf at its real stalk insertion",
+      "max_rotation_deg": 1.8,
+      "transform_kind": "subtle local hinge; not growth/time-lapse"
+    },
+    {
+      "mask": "s01-rose-upper-right-leaf-mask.svg",
+      "bbox": [
+        2087,
+        1868,
+        698,
+        342
+      ],
+      "path_vertices": 559,
+      "compound_subpaths": 1,
+      "mask_sha256": "db94b459a8de9c7b4405796838aefebf4721da98f7b8b9799f4df5bbe8ef3625",
+      "id": "upper-right-leaf",
+      "pivot": [
+        2110,
+        2183
+      ],
+      "role": "upper right compound leaf at its real stalk insertion",
+      "max_rotation_deg": 1.8,
+      "transform_kind": "subtle local hinge; not growth/time-lapse"
+    }
+  ],
+  "union_matches_master_mask": true,
+  "part_pixel_overlap": 0,
+  "base_excludes_all_moving_parts": true,
+  "join_overlap_source_px": 0,
+  "notes": [
+    "All mask files use the full original viewBox 4331×5861; the image itself is untouched.",
+    "Rotation origins are actual calyx/stalk insertions, in source pixels.",
+    "Use one source image per layer, matching dimensions and placement. Keep base stable; do not also show the whole rose unmasked underneath.",
+    "Ranges are deliberately small because this is editorial articulation of a historical plate, not generated biological motion."
+  ],
+  "original_file": "redoute-rosa-gallica-agatha-1817-24-cma.jpg"
+}

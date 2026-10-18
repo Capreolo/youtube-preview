@@ -2,6 +2,438 @@
   "method": "Bundled FFmpeg libwebp, quality 88, maximum edge 2560, full uncropped image; source originals retained in private production.",
   "assets": [
     {
+      "episode": "c1",
+      "source_file": "apothecary.jpg",
+      "source_sha256": "35da6d79084349b218fbb2e38bf513141760ff6f2e4a568ebfa23540a11f64f5",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/apothecary.webp",
+      "source_bytes": 1376410,
+      "delivery_bytes": 388884,
+      "delivery_sha256": "21e16b23f60841bc6bad8c51e16463bd64da6a078295fc44c91df0ddbed79257"
+    },
+    {
+      "episode": "c1",
+      "source_file": "aristotle.jpg",
+      "source_sha256": "55dc9232dd6b412cea4964f19e98a56f6bd1fa7213e4e947834413cf65d8776a",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/aristotle.webp",
+      "source_bytes": 3486903,
+      "delivery_bytes": 492866,
+      "delivery_sha256": "7ef1f25db9fa55c50c5a60372a64e5e7cae7045183f169eebce031923a29efd5"
+    },
+    {
+      "episode": "c1",
+      "source_file": "astrolabe.jpg",
+      "source_sha256": "ebb29384c49cfd5882179b4f56cbb581de8e7c370effee245288241ad15026b3",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/astrolabe.webp",
+      "source_bytes": 1604887,
+      "delivery_bytes": 431870,
+      "delivery_sha256": "e7faca49316b819c7479e9de29a515559a1e42dfbba02b2ec9fc7596dd2849e3"
+    },
+    {
+      "episode": "c1",
+      "source_file": "drawing-instruments.jpg",
+      "source_sha256": "a7f4add004ce0a8c35f754a749bb29f28930b9d0a8485bef21f66c69206a51f1",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/drawing-instruments.webp",
+      "source_bytes": 1290015,
+      "delivery_bytes": 256642,
+      "delivery_sha256": "04097f1eb1d3a7e6d892b3d4670977d6733cf4065643495cafdac0f092ca1940"
+    },
+    {
+      "episode": "c1",
+      "source_file": "drawing-lesson.jpg",
+      "source_sha256": "8ba0d0e9927fde552bca685e32c574d2dce00607a99b46dc258c3537e74402a5",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/drawing-lesson.webp",
+      "source_bytes": 1475076,
+      "delivery_bytes": 568858,
+      "delivery_sha256": "29722d41088d7eacdf8fa2fdae79cd3a2249a371598370168abe5ac5aad74e3c"
+    },
+    {
+      "episode": "c1",
+      "source_file": "fountain.jpg",
+      "source_sha256": "f01a010dd03dc89c17370275d4a9f561cc1f30dcb244d4e77051bed2c5488c3d",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/fountain.webp",
+      "source_bytes": 3831360,
+      "delivery_bytes": 1113792,
+      "delivery_sha256": "de0af196137055af18e26694b63ad862f81e1b2745ecb611c6843382d6c932ee"
+    },
+    {
+      "episode": "c1",
+      "source_file": "gardener.jpg",
+      "source_sha256": "8f1154838d82d27302e2037cb4d1cdbba6e010f0b647d00927debc29165a9f79",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/gardener.webp",
+      "source_bytes": 3715284,
+      "delivery_bytes": 1571224,
+      "delivery_sha256": "b1b5c1dc1cd4f3b4b0055a9b71b9f88d3475356ff1f1f749918b7d6163075012"
+    },
+    {
+      "episode": "c1",
+      "source_file": "goldsmith.jpg",
+      "source_sha256": "44ed801e6304b3721c28a69d07bae67749166aeb2b42df9962344771d817b4f4",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/goldsmith.webp",
+      "source_bytes": 5030267,
+      "delivery_bytes": 934226,
+      "delivery_sha256": "f76e0f4e89c975dccd8c8104793f10f2b0b422f12a162d529151ffd27b44aef1"
+    },
+    {
+      "episode": "c1",
+      "source_file": "hand-sculpture.jpg",
+      "source_sha256": "69fdf85332cb137f277bf92dcaca80df64f6a4e6e7cfaa71481b099c5f5cf524",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/hand-sculpture.webp",
+      "source_bytes": 1066256,
+      "delivery_bytes": 239938,
+      "delivery_sha256": "6b9e24a80e587fb289949af933385224cbd3ff3b04d30bf3743bb5ae4be85cee"
+    },
+    {
+      "episode": "c1",
+      "source_file": "horse.jpg",
+      "source_sha256": "c905acf8e02c24c5b30f90ad040a8afe43b7b8d2c65faf75b81ac3c53b535be2",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/horse.webp",
+      "source_bytes": 2692523,
+      "delivery_bytes": 473126,
+      "delivery_sha256": "94d8f63025a8b0fcd8bc5be3a0a23e3e3f3afbc4feb480d27dbaf9809135fa3e"
+    },
+    {
+      "episode": "c1",
+      "source_file": "lunar-eclipse.jpg",
+      "source_sha256": "e7a37f2827199c9a51c44c989a0a5d5ec84e4e9334c0fe03eaae21041572a67d",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/lunar-eclipse.webp",
+      "source_bytes": 1777396,
+      "delivery_bytes": 231804,
+      "delivery_sha256": "27763c4163ccd97c4f56ff83b0bd73f80b2b1a33208d3e95eb08a277694ea795"
+    },
+    {
+      "episode": "c1",
+      "source_file": "music-lesson.jpg",
+      "source_sha256": "bc7fe61d152fca073e0637648b9663a8e7c54a7b203af0d0ecdc2c4e4c81a515",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/music-lesson.webp",
+      "source_bytes": 3013225,
+      "delivery_bytes": 936262,
+      "delivery_sha256": "b5ffcc688c01ceb94d2b5de154eb6d6f802d2d2738601ea43ed4b1a9fff6287c"
+    },
+    {
+      "episode": "c1",
+      "source_file": "river.jpg",
+      "source_sha256": "a626f621b42ae0d83d0eb154b2ac2142e381c9be67a2c0626624957553d84268",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/river.webp",
+      "source_bytes": 3921012,
+      "delivery_bytes": 819672,
+      "delivery_sha256": "65e511c738a7502e7165e22c5915a49f811ace6855caafcabc94cf271b1fdd9c"
+    },
+    {
+      "episode": "c1",
+      "source_file": "rose-botany.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/rose-botany.webp",
+      "source_bytes": 5409947,
+      "delivery_bytes": 458544,
+      "delivery_sha256": "2abb863fe531f1c577a334b15831f2298dd20db45a1c546c27cbc459abce860d"
+    },
+    {
+      "episode": "c1",
+      "source_file": "saint-thomas.jpg",
+      "source_sha256": "67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/saint-thomas.webp",
+      "source_bytes": 4970724,
+      "delivery_bytes": 1553516,
+      "delivery_sha256": "afde4483bc4a3fe9e78daeffe8f0c977b864ddc784af740f7d59c4da9adfdc42"
+    },
+    {
+      "episode": "c1",
+      "source_file": "writing.jpg",
+      "source_sha256": "344e95e1c3aa552d46c615df4b7cef37f3aea471e2e0444ddb25c79d0eacbfb9",
+      "delivery_file": "episodes-v4/c1/composition/assets/art-v4/writing.webp",
+      "source_bytes": 1867831,
+      "delivery_bytes": 412070,
+      "delivery_sha256": "ffd439a92cd85a3a6b98dd99cdb81e2d03c4becf251908448b5810b371dd989e"
+    },
+    {
+      "episode": "f1",
+      "source_file": "aristotle.jpg",
+      "source_sha256": "55dc9232dd6b412cea4964f19e98a56f6bd1fa7213e4e947834413cf65d8776a",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/aristotle.webp",
+      "source_bytes": 3486903,
+      "delivery_bytes": 492866,
+      "delivery_sha256": "7ef1f25db9fa55c50c5a60372a64e5e7cae7045183f169eebce031923a29efd5"
+    },
+    {
+      "episode": "f1",
+      "source_file": "astrolabe.jpg",
+      "source_sha256": "ebb29384c49cfd5882179b4f56cbb581de8e7c370effee245288241ad15026b3",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/astrolabe.webp",
+      "source_bytes": 1604887,
+      "delivery_bytes": 431870,
+      "delivery_sha256": "e7faca49316b819c7479e9de29a515559a1e42dfbba02b2ec9fc7596dd2849e3"
+    },
+    {
+      "episode": "f1",
+      "source_file": "chisel.jpg",
+      "source_sha256": "cdd945603c986ec5cb519ebc8e29af4d97ea8e2ab492fc03358a0ac0c18d3c28",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/chisel.webp",
+      "source_bytes": 177517,
+      "delivery_bytes": 27720,
+      "delivery_sha256": "9c02bca6626a8a1e6dbbccafcc99621bddd7d8baf4fc4d7c43a4e2e5950c1425"
+    },
+    {
+      "episode": "f1",
+      "source_file": "drawing-instruments.jpg",
+      "source_sha256": "a7f4add004ce0a8c35f754a749bb29f28930b9d0a8485bef21f66c69206a51f1",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/drawing-instruments.webp",
+      "source_bytes": 1290015,
+      "delivery_bytes": 256642,
+      "delivery_sha256": "04097f1eb1d3a7e6d892b3d4670977d6733cf4065643495cafdac0f092ca1940"
+    },
+    {
+      "episode": "f1",
+      "source_file": "drawing-lesson.jpg",
+      "source_sha256": "8ba0d0e9927fde552bca685e32c574d2dce00607a99b46dc258c3537e74402a5",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/drawing-lesson.webp",
+      "source_bytes": 1475076,
+      "delivery_bytes": 568858,
+      "delivery_sha256": "29722d41088d7eacdf8fa2fdae79cd3a2249a371598370168abe5ac5aad74e3c"
+    },
+    {
+      "episode": "f1",
+      "source_file": "fountain.jpg",
+      "source_sha256": "f01a010dd03dc89c17370275d4a9f561cc1f30dcb244d4e77051bed2c5488c3d",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/fountain.webp",
+      "source_bytes": 3831360,
+      "delivery_bytes": 1113792,
+      "delivery_sha256": "de0af196137055af18e26694b63ad862f81e1b2745ecb611c6843382d6c932ee"
+    },
+    {
+      "episode": "f1",
+      "source_file": "gardener.jpg",
+      "source_sha256": "8f1154838d82d27302e2037cb4d1cdbba6e010f0b647d00927debc29165a9f79",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/gardener.webp",
+      "source_bytes": 3715284,
+      "delivery_bytes": 1571224,
+      "delivery_sha256": "b1b5c1dc1cd4f3b4b0055a9b71b9f88d3475356ff1f1f749918b7d6163075012"
+    },
+    {
+      "episode": "f1",
+      "source_file": "goldsmith.jpg",
+      "source_sha256": "44ed801e6304b3721c28a69d07bae67749166aeb2b42df9962344771d817b4f4",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/goldsmith.webp",
+      "source_bytes": 5030267,
+      "delivery_bytes": 934226,
+      "delivery_sha256": "f76e0f4e89c975dccd8c8104793f10f2b0b422f12a162d529151ffd27b44aef1"
+    },
+    {
+      "episode": "f1",
+      "source_file": "hand-sculpture.jpg",
+      "source_sha256": "69fdf85332cb137f277bf92dcaca80df64f6a4e6e7cfaa71481b099c5f5cf524",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/hand-sculpture.webp",
+      "source_bytes": 1066256,
+      "delivery_bytes": 239938,
+      "delivery_sha256": "6b9e24a80e587fb289949af933385224cbd3ff3b04d30bf3743bb5ae4be85cee"
+    },
+    {
+      "episode": "f1",
+      "source_file": "lunar-eclipse.jpg",
+      "source_sha256": "e7a37f2827199c9a51c44c989a0a5d5ec84e4e9334c0fe03eaae21041572a67d",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/lunar-eclipse.webp",
+      "source_bytes": 1777396,
+      "delivery_bytes": 231804,
+      "delivery_sha256": "27763c4163ccd97c4f56ff83b0bd73f80b2b1a33208d3e95eb08a277694ea795"
+    },
+    {
+      "episode": "f1",
+      "source_file": "music-lesson.jpg",
+      "source_sha256": "bc7fe61d152fca073e0637648b9663a8e7c54a7b203af0d0ecdc2c4e4c81a515",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/music-lesson.webp",
+      "source_bytes": 3013225,
+      "delivery_bytes": 936262,
+      "delivery_sha256": "b5ffcc688c01ceb94d2b5de154eb6d6f802d2d2738601ea43ed4b1a9fff6287c"
+    },
+    {
+      "episode": "f1",
+      "source_file": "river.jpg",
+      "source_sha256": "a626f621b42ae0d83d0eb154b2ac2142e381c9be67a2c0626624957553d84268",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/river.webp",
+      "source_bytes": 3921012,
+      "delivery_bytes": 819672,
+      "delivery_sha256": "65e511c738a7502e7165e22c5915a49f811ace6855caafcabc94cf271b1fdd9c"
+    },
+    {
+      "episode": "f1",
+      "source_file": "rose-botany.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/rose-botany.webp",
+      "source_bytes": 5409947,
+      "delivery_bytes": 458544,
+      "delivery_sha256": "2abb863fe531f1c577a334b15831f2298dd20db45a1c546c27cbc459abce860d"
+    },
+    {
+      "episode": "f1",
+      "source_file": "roses.jpg",
+      "source_sha256": "9b58b985ebd8b1b9a6c18da3ec9f674571cdc7ca97770fec03919f78dfe1a96e",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/roses.webp",
+      "source_bytes": 3904220,
+      "delivery_bytes": 1749326,
+      "delivery_sha256": "492b4c1c30795bbd9a13b08a21a31faac434ce18d133d8d84232517e38df3515"
+    },
+    {
+      "episode": "f1",
+      "source_file": "saint-thomas.jpg",
+      "source_sha256": "67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f",
+      "delivery_file": "episodes-v4/f1/composition/assets/art-v4/saint-thomas.webp",
+      "source_bytes": 4970724,
+      "delivery_bytes": 1553516,
+      "delivery_sha256": "afde4483bc4a3fe9e78daeffe8f0c977b864ddc784af740f7d59c4da9adfdc42"
+    },
+    {
+      "episode": "o0",
+      "source_file": "met-286175.jpg",
+      "source_sha256": "3db8bacdfa08101bc8c9c29b22d82f6a3907a443f22454dea897195ee717c99b",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/met-286175.webp",
+      "source_bytes": 1619089,
+      "delivery_bytes": 436920,
+      "delivery_sha256": "bcae3d4014f173a9cbfb958fb22f799b76c210550bf2aeb49db68a06eb6424d5"
+    },
+    {
+      "episode": "o0",
+      "source_file": "met-336229.jpg",
+      "source_sha256": "d807400e3ae7128613795c41bd62dfef422b6f8961f450ce1042f6464451d767",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/met-336229.webp",
+      "source_bytes": 2819773,
+      "delivery_bytes": 1177994,
+      "delivery_sha256": "341958fd1f1b2532103825846177ff07d030aa32d2cdcbebd28be38ab339556d"
+    },
+    {
+      "episode": "o0",
+      "source_file": "met-437394.jpg",
+      "source_sha256": "55dc9232dd6b412cea4964f19e98a56f6bd1fa7213e4e947834413cf65d8776a",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/met-437394.webp",
+      "source_bytes": 3486903,
+      "delivery_bytes": 492866,
+      "delivery_sha256": "7ef1f25db9fa55c50c5a60372a64e5e7cae7045183f169eebce031923a29efd5"
+    },
+    {
+      "episode": "o0",
+      "source_file": "redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/redoute-rose.webp",
+      "source_bytes": 5409947,
+      "delivery_bytes": 458544,
+      "delivery_sha256": "2abb863fe531f1c577a334b15831f2298dd20db45a1c546c27cbc459abce860d"
+    },
+    {
+      "episode": "o0",
+      "source_file": "summa-leaf-4.jpg",
+      "source_sha256": "ea80dd57ac97dd09f5c974e6d31ac8081b220f2d8c6e1b610dfeeb758946ad72",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/summa-leaf-4.webp",
+      "source_bytes": 36856,
+      "delivery_bytes": 18810,
+      "delivery_sha256": "9962cd278e24dfdc5a55e77f513d05261ddc80abbb6cc2577544a808d559404c"
+    },
+    {
+      "episode": "o0",
+      "source_file": "thomas-crivelli-1476.jpg",
+      "source_sha256": "67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f",
+      "delivery_file": "episodes-v4/o0/composition/assets/art-v4/thomas-crivelli-1476.webp",
+      "source_bytes": 4970724,
+      "delivery_bytes": 1553516,
+      "delivery_sha256": "afde4483bc4a3fe9e78daeffe8f0c977b864ddc784af740f7d59c4da9adfdc42"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-11130.jpg",
+      "source_sha256": "c2aa6fa7f9f55997c824431e398dc6d62892d6f0a060ef78c7ffbf3760327ada",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-11130.webp",
+      "source_bytes": 2394531,
+      "delivery_bytes": 759584,
+      "delivery_sha256": "e814092f3997e0d0534f2748f36ca42ba31dfd7bf1027c5f09e574053fd60f43"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-240195.jpg",
+      "source_sha256": "ab36657675a5c7ed6926989085b93be5f0b58ef99d8eb97fc04fe70e1c94b950",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-240195.webp",
+      "source_bytes": 168962,
+      "delivery_bytes": 72926,
+      "delivery_sha256": "234783ccde2dc4108e323a329355ce763cfa71bbec751f59b3ffabb9ce0e8597"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-250713.jpg",
+      "source_sha256": "684c25d87e1257af5c75efaf0252081685b35474b7b2ba9ad31e7c7b7acde2db",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-250713.webp",
+      "source_bytes": 642399,
+      "delivery_bytes": 125336,
+      "delivery_sha256": "0bbaddbec660f86105fb0e32a9acabe17d2bbf9f18c3ca3ba49aadb577f81177"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-254776.jpg",
+      "source_sha256": "4010d1b073effb9a2246c0c552ba2031be364822eddce1335ffc7d249de9d4c2",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-254776.webp",
+      "source_bytes": 2375443,
+      "delivery_bytes": 538578,
+      "delivery_sha256": "d3f659680977806d2dc0df4ed18e49462136a498f2e51efc0753e29666159399"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-286175.jpg",
+      "source_sha256": "3db8bacdfa08101bc8c9c29b22d82f6a3907a443f22454dea897195ee717c99b",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-286175.webp",
+      "source_bytes": 1619089,
+      "delivery_bytes": 436920,
+      "delivery_sha256": "bcae3d4014f173a9cbfb958fb22f799b76c210550bf2aeb49db68a06eb6424d5"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-436535.jpg",
+      "source_sha256": "b46d02a42fd3bb13b022cefc5beaa997b1d7a28cd7b53e4413d940aa0dc4014d",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-436535.webp",
+      "source_bytes": 8291194,
+      "delivery_bytes": 2038700,
+      "delivery_sha256": "cac4e5d9da60483f986aae0c197e02ff89cc7867e5e2abd6bfa572a76bf694c5"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "met-437394.jpg",
+      "source_sha256": "55dc9232dd6b412cea4964f19e98a56f6bd1fa7213e4e947834413cf65d8776a",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/met-437394.webp",
+      "source_bytes": 3486903,
+      "delivery_bytes": 492866,
+      "delivery_sha256": "7ef1f25db9fa55c50c5a60372a64e5e7cae7045183f169eebce031923a29efd5"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "nps-iron-nail.jpg",
+      "source_sha256": "c1091a2952733e1907973c8d16f36d6109d90a815d786e8a18613735bd0160b1",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/nps-iron-nail.webp",
+      "source_bytes": 2975664,
+      "delivery_bytes": 491972,
+      "delivery_sha256": "4f2cd1239b6caeed9b593468db3d67eec12591c0bbc441d8499a4fabf0823242"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/redoute-rose.webp",
+      "source_bytes": 5409947,
+      "delivery_bytes": 458544,
+      "delivery_sha256": "2abb863fe531f1c577a334b15831f2298dd20db45a1c546c27cbc459abce860d"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "usgs-ice.jpg",
+      "source_sha256": "8c84d474191d5b320ea36f59980ec09ea2786b567e1a6cc5bd24172d7e756469",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/usgs-ice.webp",
+      "source_bytes": 1575245,
+      "delivery_bytes": 364450,
+      "delivery_sha256": "55bfbfb7915fbb73090eb0e3cb34e5a4ccc37d57c258ef4f368b3807d1599bdb"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "usgs-magnetite.jpg",
+      "source_sha256": "afe85720bdde232201a2469cd6853486dead4bb1e0a2339646d55ecb05d7fe47",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/usgs-magnetite.webp",
+      "source_bytes": 25088781,
+      "delivery_bytes": 262618,
+      "delivery_sha256": "893b43dbd2e85058d27a80fff9f99ac422d72195406b133f3dd2006a963fbf6e"
+    },
+    {
       "episode": "s01",
       "source_file": "fantin-latour-roses-lilies-1888-met.jpg",
       "source_sha256": "9b58b985ebd8b1b9a6c18da3ec9f674571cdc7ca97770fec03919f78dfe1a96e",

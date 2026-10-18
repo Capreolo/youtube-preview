@@ -1,0 +1,15 @@
+# V5 layer provenance
+
+No new raster, font, generated video or paid media. Source photographs/paintings remain unchanged.
+
+- `s01-rose-base-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `s01-rose-main-bloom-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `s01-rose-left-bud-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `s01-rose-right-bud-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `s01-rose-upper-left-leaf-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `s01-rose-upper-right-leaf-mask.svg`: original repository-authored simplified vector silhouette from `redoute-rose.webp`. [Source](https://www.clevelandart.org/art/1943.139); CC0 1.0. Source hash `708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee`.
+- `thomas-book-mask.svg`: original repository-authored simplified vector silhouette from `thomas-crivelli-1476.webp`. [Source](https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_%28Crivelli%2C_15th-century%29.jpg); Public domain (PD-Art, PD-old-100-expired). Source hash `67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f`.
+- `thomas-church-mask.svg`: original repository-authored simplified vector silhouette from `thomas-crivelli-1476.webp`. [Source](https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_%28Crivelli%2C_15th-century%29.jpg); Public domain (PD-Art, PD-old-100-expired). Source hash `67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f`.
+- `open-book-mask.svg`: original repository-authored simplified vector silhouette from `met-286175.webp`. [Source](https://www.metmuseum.org/art/collection/search/286175); CC0 1.0 / public-domain artwork image. Source hash `3db8bacdfa08101bc8c9c29b22d82f6a3907a443f22454dea897195ee717c99b`.
+
+The local `../polish-v5.js` adapter animates source-aligned layers on the existing paused timeline. Book leaves hinge; actual paper/engraving strata articulate; botanical parts hinge subtly at their actual stalk/calyx insertions without growth or scaling; contours and explanatory flows reveal material relations. These are editorial demonstrations, not historical footage or measured experiments. Human faces are not animated. Credits stay outside the video.

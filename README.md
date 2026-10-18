@@ -1,10 +1,6 @@
-# Preview update: S01 art revision 4
+# Canal de Filosofia — five working previews · art revision 5
 
-S01 now has six art-led scenes, 58-second slower narration and a quieter music mix. Four long episodes are still on visual revision 2 while their next revision is checked. No final MP4 has been rendered.
-
-# Canal de Filosofia — five working previews · visual revision 2
-
-Static review site for the channel's first episodes. Revision 2 adds individually directed palettes, original corner ornaments and more detailed explanatory illustrations:
+Static review site for the channel's first episodes. Revision 5 applies four refinement rounds to the artwork, composition, explanatory relationships and animation. Objects use source-constrained silhouette masks, and selected parts articulate independently. Ornaments and directional connections develop at the corresponding narration cues. Environmental paintings fill or blend into their scenes.
 
 | Episode | Title | Screen | Current duration |
 | --- | --- | --- | --- |
@@ -20,7 +16,7 @@ These are live HTML compositions for review, not final exported MP4s. Narration 
 
 Open the GitHub Pages site, choose an episode and tap the player's play button. Playback starts only when you tap. The native controls provide pause, seeking, sound and fullscreen. Landscape orientation gives the four horizontal episodes more room; S01 uses a portrait canvas. Selecting another episode unloads the current player so only one soundtrack plays.
 
-The site uses local frozen HyperFrames 0.8.145 playback code, fonts, modules and MP3 audio. There is no server-side application, account connection or build step. A modern browser supporting JavaScript, ES modules and WebGL is needed for the Three.js rose scenes.
+The site uses local frozen HyperFrames 0.8.145 playback code, fonts, modules and MP3 audio. There is no server-side application, account connection or build step. A modern browser supporting JavaScript and ES modules is needed. Artwork delivery derivatives are compressed for phone viewing; full-resolution originals remain in the production project.
 
 ## Local static serving
 

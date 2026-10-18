@@ -1,0 +1,235 @@
+{
+  "revision": 5,
+  "source_rasters_unchanged": true,
+  "method": "Original vector masks authored against local museum originals inspected with view_image; shared exact Redouté partition from the S01 collaboration. All runtime alpha geometry follows the original raster plane, before viewport crops.",
+  "no_raster_editing": true,
+  "no_paid_generation": true,
+  "no_screenshots_or_renders": true,
+  "normalized_masks_use_preserveAspectRatio_none": true,
+  "component_base_alpha": "White/black luminance masks are resolved inside an SVG mask to output real transparent holes; the separated component is not duplicated underneath.",
+  "mask_count": 37,
+  "masks": {
+    "apothecary-mask.svg": {
+      "sha256": "7353577609f6083ce8b4447d53f521c46e355ead5e4338c78a6296c484dd3cce",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "astrolabe-inner-disc.svg": {
+      "sha256": "492122aeda7a72f76388b38c962c5a31f986559377c2b2eff00cde75cbe5e434",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "astrolabe-mask.svg": {
+      "sha256": "65af04b968fbf167f2f47c9ba7b7aedfd3ae13f2cc2f9a4cd363f89579349b11",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "chisel-mask.svg": {
+      "sha256": "1430e1e0cd09fd9c4e60edd58f924fed444fc22a8bcbf00db221380e67b69062",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "editorial-field-mask-b.svg": {
+      "sha256": "b39a57e2e5cb8af1a9d21c76b52659cd42db5abe409956eaf2334eac7e1738e8",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "editorial-field-mask.svg": {
+      "sha256": "bfbc664ae3b5dd02dd50155882ede0a99428ba7ba70edbc918582cf281ef6a84",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "fountain-basin.svg": {
+      "sha256": "3922fb346e74e60e0f8734b67a3f3bb50a2fc46065ee547a3c83c54cbaf05007",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "fountain-mask.svg": {
+      "sha256": "06aaed59b82d98aac85725d3611793afd7be56562e0f665c4ba3425434ba5535",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "fountain-pedestal.svg": {
+      "sha256": "1a4fd91ad09a20a89e7dff5ca71c3528f5a2986761c6bcb79649b4a88f7f300c",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "hand-mask.svg": {
+      "sha256": "52e81ab63a5e4f58c772ff7e899274c62893ab728f14875cee8d36b3341b9aa4",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "horse-pair.svg": {
+      "sha256": "92b860ba819146f1e0f57de39c90e3eb5f07b0d687b5b73d479d4e87617ad96c",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "instrument-base.svg": {
+      "sha256": "b81b9d7eb832a53a8e438fc643d2748cdebb8aef78df22626d6efbf340fecf06",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "instrument-leg-a.svg": {
+      "sha256": "45222b2624771e1b54a4ea940fc71603d958030583290d2415965d84f662e9a8",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "instrument-leg-b.svg": {
+      "sha256": "cd42be220b7841d09c77dcff2fde96ca4443ca3afd6a7e2a1bc3a27ef498464b",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "redoute-rose-mask.svg": {
+      "sha256": "f277231c4bb36c1e0907e585b7a8f13e88a13d2d26b1c6561bec646ae8ba40dd",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-base-mask.svg": {
+      "sha256": "0c48033f728c19133cf86a088e95da7df8d66b6b3d75c9b33d40b294210c3b70",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-left-bud-mask.svg": {
+      "sha256": "b5f1de18b965270b8c8e66f76b8e1e6375e470f172239fc28ea445d593738f96",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-main-bloom-mask.svg": {
+      "sha256": "8f1c5775bc72ff4954e8bc39d1c49beed162eec245063b7947ec722578c8078f",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-right-bud-mask.svg": {
+      "sha256": "8cf9db27d590d85c344944e3d19804afe35981e6e590b59fd1e63c2a9a7f4cf9",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-upper-left-leaf-mask.svg": {
+      "sha256": "578a3a251f8de5d53f5682f5cf0d304468e02cbd1cf134a0f8a1ff3d8cfa0b2d",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "s01-rose-upper-right-leaf-mask.svg": {
+      "sha256": "db94b459a8de9c7b4405796838aefebf4721da98f7b8b9799f4df5bbe8ef3625",
+      "viewBox": "0 0 4331 5861",
+      "preserveAspectRatio": "xMidYMid meet",
+      "role": "original master/partition silhouette"
+    },
+    "v5-aristotle-bust-hand-base.svg": {
+      "sha256": "e5a2a74b5086991149f05481bf4c7f54f7baffbe4f136c8d70227a3a873bb1ab",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-aristotle-bust-hand.svg": {
+      "sha256": "a8c57ad93a185ce46561a15cacb9903c0e4b7dddb4b7d0cbabef639c958fe398",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-drawing-lesson-drawing-hand-base.svg": {
+      "sha256": "2467e09bc9fa1fa2e6ec3d2dc3664676b71a11a2dc4ae58997b7c0bfb57c016b",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-drawing-lesson-drawing-hand.svg": {
+      "sha256": "1240b2d95f7bb04f5539aebbf8612e959e9cafb962dcf8b79aa2ae5b9ff78f01",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-gardener-working-forearm-base.svg": {
+      "sha256": "2d29a0bed5468790d49b52b676086497985d028ee5b23fef4ccdee0a464a72ac",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-gardener-working-forearm.svg": {
+      "sha256": "bb8e0f6aaa60c4ec3324ebd67a492bef321f2dfc255c0b63ac46bb6ab9811b0f",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-goldsmith-balance-base.svg": {
+      "sha256": "052012df14cce94fcbbba26fcdb37c0d9376745cdb610e24a7a29199ba12e392",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-goldsmith-balance.svg": {
+      "sha256": "80a5862cabd3bb7da0fa0a942a18d4ce359d63b5fc7a18578d929bc160c59742",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-music-lesson-flute-base.svg": {
+      "sha256": "03ef3c94a5103e499927445417b86f2d3a8cf8a651d6d74ec1741ccda6ea99c3",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-music-lesson-flute.svg": {
+      "sha256": "8cbff6effa1d2e92e2854b23e879a4e54b6af5153c269f2feb8dc14e58e4b21c",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-river-boat-base.svg": {
+      "sha256": "0370ce152bd3b7ae8e433f2e27d8aa39de25b98b94f5cc67039f3a2caef24edc",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-river-boat.svg": {
+      "sha256": "aebfeff75abcf8ebec10b8e74f16bc21ae4fae3e7c51a4fe0eaccd7296bd507f",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-saint-thomas-painted-book-page-base.svg": {
+      "sha256": "90e7ada684ad1eaf54e0dd177369c369011ed55734dee72fa57d76bce9b4e473",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-saint-thomas-painted-book-page.svg": {
+      "sha256": "63a6e318280c867ab55ed0b4a32ca0c6f171718276965b8dfd1ba56d2a8fb98a",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-writing-quill-base.svg": {
+      "sha256": "a4d25812395031b07a721e720c33fc5f207799b764fe935489331856ea281834",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    },
+    "v5-writing-quill.svg": {
+      "sha256": "d1352e621f50ccdd17839998339a7f45532af2e5b13ad39f45c5c7d718e1a752",
+      "viewBox": "0 0 1000 1000",
+      "preserveAspectRatio": "none",
+      "role": "source-coordinate cutout, actual component, or editorial edge mask"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schema": "philosophy-layer-assets/5",
+  "episode": "ps01-thales",
+  "source_rasters_changed": false,
+  "new_rasters": 0,
+  "new_fonts": 0,
+  "new_assets": [
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-base-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "0c48033f728c19133cf86a088e95da7df8d66b6b3d75c9b33d40b294210c3b70",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "base",
+      "pivot": [
+        2154,
+        3650
+      ],
+      "max_rotation_deg": 0,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-main-bloom-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "8f1c5775bc72ff4954e8bc39d1c49beed162eec245063b7947ec722578c8078f",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "main-bloom",
+      "pivot": [
+        2095,
+        1938
+      ],
+      "max_rotation_deg": 0.85,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-left-bud-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "b5f1de18b965270b8c8e66f76b8e1e6375e470f172239fc28ea445d593738f96",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "left-bud",
+      "pivot": [
+        1345,
+        2555
+      ],
+      "max_rotation_deg": 1.2,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-right-bud-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "8cf9db27d590d85c344944e3d19804afe35981e6e590b59fd1e63c2a9a7f4cf9",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "right-bud",
+      "pivot": [
+        3095,
+        2460
+      ],
+      "max_rotation_deg": 1.2,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-upper-left-leaf-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "578a3a251f8de5d53f5682f5cf0d304468e02cbd1cf134a0f8a1ff3d8cfa0b2d",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "upper-left-leaf",
+      "pivot": [
+        2080,
+        1970
+      ],
+      "max_rotation_deg": 1.8,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/s01-rose-upper-right-leaf-mask.svg",
+      "source": "motion/assets/art-v4/redoute-rose.jpg",
+      "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "sha256": "db94b459a8de9c7b4405796838aefebf4721da98f7b8b9799f4df5bbe8ef3625",
+      "width": 4331,
+      "height": 5861,
+      "trace": "Reused anatomically partitioned source-aligned mask from S01. Union matches master; no part overlap.",
+      "part": "upper-right-leaf",
+      "pivot": [
+        2110,
+        2183
+      ],
+      "max_rotation_deg": 1.8,
+      "source_page_url": "https://www.clevelandart.org/art/1943.139",
+      "source_license": "CC0 1.0",
+      "rights_policy_url": "https://www.clevelandart.org/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/hydria-mask.svg",
+      "source": "motion/assets/art-v4/met-254776.jpg",
+      "source_sha256": "4010d1b073effb9a2246c0c552ba2031be364822eddce1335ffc7d249de9d4c2",
+      "sha256": "ca3f1eb4ef000d2555b885a34097c03c62c237bb0bd7a088761acc49371058f9",
+      "width": 4000,
+      "height": 4000,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://www.metmuseum.org/art/collection/search/254776",
+      "source_license": "CC0 1.0 / public-domain artwork image",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/ring-mask.svg",
+      "source": "motion/assets/art-v4/met-250713.jpg",
+      "source_sha256": "684c25d87e1257af5c75efaf0252081685b35474b7b2ba9ad31e7c7b7acde2db",
+      "sha256": "793897a1bbf9af3415ecd8aa8b82551aeaf0f812984f5411e234cb8bcdcc2ab8",
+      "width": 3000,
+      "height": 4000,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://www.metmuseum.org/art/collection/search/250713",
+      "source_license": "CC0 1.0 / public-domain artwork image",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/bowl-mask.svg",
+      "source": "motion/assets/art-v4/met-240195.jpg",
+      "source_sha256": "ab36657675a5c7ed6926989085b93be5f0b58ef99d8eb97fc04fe70e1c94b950",
+      "sha256": "4325fe21e8ea64873b4834aaa8f5db67075eb8bf645af56a8e050c444f9df6bb",
+      "width": 1372,
+      "height": 924,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://www.metmuseum.org/art/collection/search/240195",
+      "source_license": "CC0 1.0 / public-domain artwork image",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/iron-mask.svg",
+      "source": "motion/assets/art-v4/nps-iron-nail.jpg",
+      "source_sha256": "c1091a2952733e1907973c8d16f36d6109d90a815d786e8a18613735bd0160b1",
+      "sha256": "85d13fb70cdcbc1cf9b249639d94600cfcf3f2ee8832ebbfbc08f223becc1a7b",
+      "width": 2915,
+      "height": 2990,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://npgallery.nps.gov/AssetDetail/25c097b2-c0be-4544-b9ff-1d9b2c9fabdf",
+      "source_license": "Public domain — US federal government / National Park Service",
+      "rights_policy_url": "https://creativecommons.org/publicdomain/mark/1.0/"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/magnetite-mask.svg",
+      "source": "motion/assets/art-v4/usgs-magnetite.jpg",
+      "source_sha256": "afe85720bdde232201a2469cd6853486dead4bb1e0a2339646d55ecb05d7fe47",
+      "sha256": "89cfb661bb1f504b3ed2cc20f6a966fa540ae13442fa4136991044fd936d6629",
+      "width": 4480,
+      "height": 6720,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://www.usgs.gov/media/images/magnetite-specimen",
+      "source_license": "Public Domain",
+      "rights_policy_url": "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"
+    },
+    {
+      "episode": "ps01-thales",
+      "file": "motion/assets/art-v5/open-book-mask.svg",
+      "source": "motion/assets/art-v4/met-286175.jpg",
+      "source_sha256": "3db8bacdfa08101bc8c9c29b22d82f6a3907a443f22454dea897195ee717c99b",
+      "sha256": "29f39b7d91e5762d0ed7fdf31f632662bed57282770de6276bda29d58ae8bc69",
+      "width": 3674,
+      "height": 2855,
+      "trace": "Simplified manual vector outline after source inspection; not a physical/anatomical reconstruction.",
+      "source_page_url": "https://www.metmuseum.org/art/collection/search/286175",
+      "source_license": "CC0 1.0 / public-domain artwork image",
+      "rights_policy_url": "https://www.metmuseum.org/hubs/open-access"
+    }
+  ],
+  "runtime": "assets/polish-v5.js",
+  "runtime_sha256": "e693eac51c80096da3f3ac9737e4bf791594945db98717eb0c730c54565bd754",
+  "runtime_contract": "Wraps the existing paused scene timeline. No wall clock, requestAnimationFrame, timers, paid media or embedded narration. Existing inline scripts and source ASR are unchanged.",
+  "layer_motion_scope": "Editorial analytical articulation of real source pixels, not documentary footage, a reconstructed event or a measured experiment. Human faces stay intact.",
+  "botanical_master": "Existing 4331×5861 Redouté raster and source-aligned master mask retained. Six exact S01 anatomical masks cover the master without overlap: fixed base, main bloom, two buds and two compound leaves. Actual insertion pivots; no scale; rotations limited per part to 0.85–1.8 degrees.",
+  "limits": [
+    "New object contours are simplified manual vector outlines checked against the source images; final aesthetic and fine-edge approval requires preview.",
+    "Native layout checks do not prove perceptual clarity, historic physical motion or scientific experiment accuracy."
+  ]
+}

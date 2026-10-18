@@ -1,0 +1,29 @@
+{
+  "source_mask_sha256": "816f508919c8f72919a7941e86633bcbb2686452b7966179a9177d2c9eecc158",
+  "source_file": "van-der-neer-the-reader-met.jpg",
+  "width": 2848,
+  "height": 3850,
+  "method": "Vector clipping of the existing silhouette: only the front page below the hand, a restrained pivot at the visible book gutter. Face and hands remain fixed. Original raster unchanged.",
+  "layers": [
+    {
+      "id": "reader-base",
+      "mask": "s01-reader-base-v5.svg",
+      "role": "base",
+      "pivot": [
+        1242,
+        2598
+      ],
+      "max_rotation_deg": 0
+    },
+    {
+      "id": "reader-front-page",
+      "mask": "s01-reader-page-v5.svg",
+      "role": "page",
+      "pivot": [
+        1242,
+        2598
+      ],
+      "max_rotation_deg": 0.7
+    }
+  ]
+}

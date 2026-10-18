@@ -1,0 +1,50 @@
+{
+  "schema": "philosophy-vector-mask/1",
+  "source": "youtube/s01-rose-in-the-mind/motion/assets/art-v4/redoute-rosa-gallica-agatha-1817-24-cma.webp",
+  "source_sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+  "source_dimensions": [
+    4331,
+    5861
+  ],
+  "mask": "youtube/s01-rose-in-the-mind/motion/assets/art-v4/redoute-rose-mask.svg",
+  "mask_sha256": "f277231c4bb36c1e0907e585b7a8f13e88a13d2d26b1c6561bec646ae8ba40dd",
+  "viewBox": [
+    0,
+    0,
+    4331,
+    5861
+  ],
+  "specimen_bbox_xywh": [
+    921,
+    1113,
+    2515,
+    3519
+  ],
+  "specimen_bbox_normalized": [
+    0.2126529669822212,
+    0.1898993345845419,
+    0.5806972985453706,
+    0.6004094864357619
+  ],
+  "retained_components": 1,
+  "discarded_detached_specks_largest_px": 208,
+  "compound_subpaths": 35,
+  "traced_vertices": 10895,
+  "trace_tolerance_source_px": 0.65,
+  "antialias": "SVG geometric precision with continuous quadratic midpoint interpolation. No heavy blur, repaint or generated pixels.",
+  "includes": [
+    "three flowers/buds",
+    "serrated leaves",
+    "fine branches",
+    "main stem",
+    "visible original thorns"
+  ],
+  "excludes": [
+    "paper field",
+    "foxing spots detached from plant",
+    "all lettering",
+    "plate rules"
+  ],
+  "method": "Local colour/luminance separation, 3×3 gap close, connected botanical component and vector contour tracing with negative spaces preserved. Original raster unchanged.",
+  "inspection": "Original, source-aligned silhouette on forest, fine thorn/serration/petal details, and native vector-clipped thumbnail exports at 1280×720 and 320×180 inspected. Original source hash verified unchanged."
+}

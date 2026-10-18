@@ -1,0 +1,559 @@
+{
+  "schema": "philosophy-art-sources/4",
+  "episode": "f1",
+  "retrieved": "2026-10-18",
+  "asset_count": 15,
+  "paid_generation_calls": 0,
+  "paid_search_calls": 0,
+  "screenshots": 0,
+  "audio_modified": false,
+  "timing_modified": false,
+  "attribution_policy": "Only repository/source records carry image credits; no bibliographic footers or image attributions are added inside the video.",
+  "assets": [
+    {
+      "id": "aristotle",
+      "title": "Aristotle with a Bust of Homer",
+      "creator": "Rembrandt (Rembrandt van Rijn)",
+      "culture": "",
+      "date": "1653",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "61.198",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437394",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437394",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-30758-001.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Purchase, special contributions and funds given or bequeathed by friends of the Museum, 1961",
+      "local_file": "motion/assets/art-v4/aristotle.jpg",
+      "dimensions": [
+        3792,
+        4000
+      ],
+      "sha256": "55dc9232dd6b412cea4964f19e98a56f6bd1fa7213e4e947834413cf65d8776a",
+      "inspected_raster": true,
+      "editorial_role_note": "Rembrandt’s 1653 posthumous artistic representation, not an ancient documentary portrait or proof of doctrine.",
+      "beats": [
+        "f1-b03",
+        "f1-b06",
+        "f1-b07"
+      ]
+    },
+    {
+      "id": "astrolabe",
+      "title": "Astrolabe of ‘Umar ibn Yusuf ibn ‘Umar ibn ‘Ali ibn Rasul al-Muzaffari",
+      "creator": "‘Umar ibn Yusuf ibn ‘Umar ibn ‘Ali ibn Rasul al-Muzaffari",
+      "culture": "",
+      "date": "dated 690 AH/1291 CE",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "91.1.535a–h",
+      "page_url": "https://www.metmuseum.org/art/collection/search/444408",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/444408",
+      "download_url": "https://images.metmuseum.org/CRDImages/is/original/DP170386.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+      "local_file": "motion/assets/art-v4/astrolabe.jpg",
+      "dimensions": [
+        2995,
+        4000
+      ],
+      "sha256": "ebb29384c49cfd5882179b4f56cbb581de8e7c370effee245288241ad15026b3",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual 1291 instrument. Illustration of prediction/measurement, not a primary manuscript source for scholastic claims.",
+      "beats": [
+        "f1-b02",
+        "f1-b13",
+        "f1-b16",
+        "f1-b40"
+      ]
+    },
+    {
+      "id": "chisel",
+      "title": "Chisel",
+      "creator": "Unidentified maker",
+      "culture": "",
+      "date": "ca. 1473–1458 BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "25.3.122",
+      "page_url": "https://www.metmuseum.org/art/collection/search/548778",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/548778",
+      "download_url": "https://images.metmuseum.org/CRDImages/eg/original/25.3.122.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Rogers Fund, 1925",
+      "local_file": "motion/assets/art-v4/chisel.jpg",
+      "dimensions": [
+        931,
+        294
+      ],
+      "sha256": "cdd945603c986ec5cb519ebc8e29af4d97ea8e2ab492fc03358a0ac0c18d3c28",
+      "inspected_raster": true,
+      "editorial_role_note": "Illustrative actual Egyptian chisel. No claim that it made the pictured medieval fountain or belonged to that workshop.",
+      "beats": [
+        "f1-b20"
+      ]
+    },
+    {
+      "id": "drawing-instruments",
+      "title": "Pocket set of drawing instruments",
+      "creator": "Peter Dollond",
+      "culture": "",
+      "date": "ca. 1755–60",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "41.160.67a–l",
+      "page_url": "https://www.metmuseum.org/art/collection/search/198857",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/198857",
+      "download_url": "https://images.metmuseum.org/CRDImages/es/original/DP232308.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Bequest of W. Gedney Beatty, 1941",
+      "local_file": "motion/assets/art-v4/drawing-instruments.jpg",
+      "dimensions": [
+        4000,
+        3094
+      ],
+      "sha256": "a7f4add004ce0a8c35f754a749bb29f28930b9d0a8485bef21f66c69206a51f1",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual photographed eighteenth-century drawing instruments; not claimed to have belonged to any philosopher.",
+      "beats": [
+        "f1-b14",
+        "f1-b28",
+        "f1-b29",
+        "f1-b38",
+        "f1-b39",
+        "f1-b46"
+      ]
+    },
+    {
+      "id": "drawing-lesson",
+      "title": "The Drawing Lesson",
+      "creator": "Thomas Rowlandson",
+      "culture": "",
+      "date": "1780–1827",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "68.549.4",
+      "page_url": "https://www.metmuseum.org/art/collection/search/364029",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/364029",
+      "download_url": "https://images.metmuseum.org/CRDImages/dp/original/DP804928.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Anonymous gift, 1968",
+      "local_file": "motion/assets/art-v4/drawing-lesson.jpg",
+      "dimensions": [
+        3110,
+        2887
+      ],
+      "sha256": "8ba0d0e9927fde552bca685e32c574d2dce00607a99b46dc258c3537e74402a5",
+      "inspected_raster": true,
+      "editorial_role_note": "A real historical drawing used to illustrate learning; no homunculus or miniature theater within a mind.",
+      "beats": [
+        "f1-b04",
+        "f1-b11",
+        "f1-b41",
+        "f1-b44",
+        "f1-b45",
+        "f1-b47"
+      ]
+    },
+    {
+      "id": "fountain",
+      "title": "Fountain",
+      "creator": "French",
+      "culture": "French",
+      "date": "13th century",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "26.79",
+      "page_url": "https://www.metmuseum.org/art/collection/search/471044",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/471044",
+      "download_url": "https://images.metmuseum.org/CRDImages/cl/original/cdi26-79.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Purchase, Fletcher Fund and Gift of George Grey Barnard, 1926",
+      "local_file": "motion/assets/art-v4/fountain.jpg",
+      "dimensions": [
+        2334,
+        2268
+      ],
+      "sha256": "f01a010dd03dc89c17370275d4a9f561cc1f30dcb244d4e77051bed2c5488c3d",
+      "inspected_raster": true,
+      "editorial_role_note": "Same actual medieval fountain photographed in a cloister. No construction stages, flowing-water footage or documentary maker attribution invented.",
+      "beats": [
+        "f1-b15",
+        "f1-b17",
+        "f1-b18",
+        "f1-b19",
+        "f1-b20",
+        "f1-b21",
+        "f1-b22",
+        "f1-b23",
+        "f1-b24"
+      ]
+    },
+    {
+      "id": "gardener",
+      "title": "The Gardener",
+      "creator": "Georges Seurat",
+      "culture": "",
+      "date": "1882–83",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "67.187.102",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437656",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437656",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DT1499.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+      "local_file": "motion/assets/art-v4/gardener.jpg",
+      "dimensions": [
+        3811,
+        2419
+      ],
+      "sha256": "8f1154838d82d27302e2037cb4d1cdbba6e010f0b647d00927debc29165a9f79",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual Seurat painting of a gardener; illustration of cultivation, not a philosopher portrait or a literal causal proof of a metaphysical claim.",
+      "beats": [
+        "f1-b05",
+        "f1-b08",
+        "f1-b09",
+        "f1-b10",
+        "f1-b11",
+        "f1-b15",
+        "f1-b16",
+        "f1-b27",
+        "f1-b38",
+        "f1-b44"
+      ]
+    },
+    {
+      "id": "goldsmith",
+      "title": "A Goldsmith in his Shop",
+      "creator": "Petrus Christus",
+      "culture": "",
+      "date": "1449",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "1975.1.110",
+      "page_url": "https://www.metmuseum.org/art/collection/search/459052",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/459052",
+      "download_url": "https://images.metmuseum.org/CRDImages/rl/original/DP-42353-001.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Robert Lehman Collection, 1975",
+      "local_file": "motion/assets/art-v4/goldsmith.jpg",
+      "dimensions": [
+        3469,
+        4000
+      ],
+      "sha256": "44ed801e6304b3721c28a69d07bae67749166aeb2b42df9962344771d817b4f4",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual painted artisan, customers, scales and coins. Financial context illustration, not a documented bank building or portrait of a philosopher. No saint identity is asserted.",
+      "beats": [
+        "f1-b11",
+        "f1-b12",
+        "f1-b16",
+        "f1-b42",
+        "f1-b43",
+        "f1-b44"
+      ]
+    },
+    {
+      "id": "hand-sculpture",
+      "title": "Study of a hand",
+      "creator": "Auguste Rodin",
+      "culture": "",
+      "date": "last quarter 19th–early 20th century",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "12.12.17",
+      "page_url": "https://www.metmuseum.org/art/collection/search/191861",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/191861",
+      "download_url": "https://images.metmuseum.org/CRDImages/es/original/DP370266.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Gift of Auguste Rodin, 1912",
+      "local_file": "motion/assets/art-v4/hand-sculpture.jpg",
+      "dimensions": [
+        3929,
+        2940
+      ],
+      "sha256": "69fdf85332cb137f277bf92dcaca80df64f6a4e6e7cfaa71481b099c5f5cf524",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual sculptural study of a hand. Created material artifact; not anatomy, a mental representation or an image of God.",
+      "beats": [
+        "f1-b31",
+        "f1-b36",
+        "f1-b38"
+      ]
+    },
+    {
+      "id": "lunar-eclipse",
+      "title": "Lunar eclipse of 2025 September 7 (Montage s3)",
+      "creator": "Alpsdake",
+      "date": "2025-09-08 JST (2025-09-07 UTC)",
+      "institution": "Photographer’s own work, published on Wikimedia Commons",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Lunar_eclipse_of_2025_September_7_(Montage_s3).jpg",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lunar_eclipse_of_2025_September_7_%28Montage_s3%29.jpg",
+      "license": "CC0 1.0 Universal Public Domain Dedication",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_evidence": {
+        "author_own_work": true,
+        "author_explicit_CC0_dedication": true,
+        "file_revision": "Commons oldid 1174178403",
+        "first_reference_cell_excluded": "Cell 01 description identifies a 2018 reference Moon; it is not shown.",
+        "selected_2025_cells": [
+          "02: 01:31 JST",
+          "07: 02:15 JST",
+          "10: 03:00 JST",
+          "20: 05:10 JST"
+        ]
+      },
+      "local_file": "motion/assets/art-v4/lunar-eclipse.webp",
+      "dimensions": [
+        3360,
+        4200
+      ],
+      "sha256": "e7a37f2827199c9a51c44c989a0a5d5ec84e4e9334c0fe03eaae21041572a67d",
+      "inspected_raster": true,
+      "editorial_role_note": "Four actual 2025 lunar-eclipse photographs appear through nondestructive HTML crop windows in chronological order. Original 20-cell image stays intact; no generated phase, physical time-lapse or solar eclipse is implied.",
+      "beats": [
+        "f1-b01",
+        "f1-b02",
+        "f1-b05",
+        "f1-b48"
+      ]
+    },
+    {
+      "id": "music-lesson",
+      "title": "The Music Lesson",
+      "creator": "John George Brown",
+      "culture": "American",
+      "date": "1870",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "21.115.3",
+      "page_url": "https://www.metmuseum.org/art/collection/search/10240",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10240",
+      "download_url": "https://images.metmuseum.org/CRDImages/ad/original/DP156440.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Gift of Colonel Charles A. Fowler, 1921",
+      "local_file": "motion/assets/art-v4/music-lesson.jpg",
+      "dimensions": [
+        3237,
+        3821
+      ],
+      "sha256": "bc7fe61d152fca073e0637648b9663a8e7c54a7b203af0d0ecdc2c4e4c81a515",
+      "inspected_raster": true,
+      "editorial_role_note": "Actual painting of flute instruction. Used for hearing, teaching and human action; no identification of the depicted people as philosophers or attribution of philosophical evidence to the painting.",
+      "beats": [
+        "f1-b43",
+        "f1-b44"
+      ]
+    },
+    {
+      "id": "river",
+      "title": "River with a Distant Tower",
+      "creator": "Camille Corot",
+      "culture": "",
+      "date": "1865",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "11.45.4",
+      "page_url": "https://www.metmuseum.org/art/collection/search/435983",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435983",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-14936-055.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "Bequest of Robert Graham Dun, 1900",
+      "local_file": "motion/assets/art-v4/river.jpg",
+      "dimensions": [
+        4000,
+        2880
+      ],
+      "sha256": "a626f621b42ae0d83d0eb154b2ac2142e381c9be67a2c0626624957553d84268",
+      "inspected_raster": true,
+      "editorial_role_note": "Corot’s studio-composed landscape, used for riverbank context; not a geographically exact documentary image.",
+      "beats": [
+        "f1-b47"
+      ]
+    },
+    {
+      "id": "rose-botany",
+      "title": "Provence or French Rose",
+      "inscribed_title": "Rosa Gallica agatha. (Varietas parva violacea.) / La petite Renoncule violette.",
+      "creator": "Henri Joseph Redouté (French, 1766–1853)",
+      "date": "1817–1824",
+      "institution": "The Cleveland Museum of Art",
+      "accession": "1943.139",
+      "page_url": "https://www.clevelandart.org/art/1943.139",
+      "metadata_url": "https://openaccess-api.clevelandart.org/api/artworks/?accession_number=1943.139",
+      "download_url": "https://openaccess-cdn.clevelandart.org/1943.139/1943.139_full.tif",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.clevelandart.org/open-access",
+      "rights_evidence": {
+        "share_license_status": "CC0",
+        "copyright": null
+      },
+      "credit_line": "Gift of The Print Club of Cleveland, for the Donald Gray Memorial Collection",
+      "role": "Primary carmine rose, botanical structure, petals, leaves, stem and thorns.",
+      "attribution_note": "Catalogue credits Henri Joseph Redouté. The plate itself reads P.J. Redouté pinx.; retain this distinction rather than silently substituting artist or species. Film need not display or pronounce this catalogue material.",
+      "file_conversion": "Full museum TIFF decoded to JPEG with bundled FFmpeg (-q:v 2), preserving full 4331x5861 dimensions; no crop, repaint, recolouring or generation.",
+      "source_tiff_sha256": "31dc3ca36be17469ec1d516f32b444c863cbafa22e277679ca7fd119db07e303",
+      "suggested_regions_normalized": {
+        "whole_specimen_without_plate_credits": [
+          0.17,
+          0.17,
+          0.68,
+          0.64
+        ],
+        "main_carmine_bloom": [
+          0.395,
+          0.165,
+          0.24,
+          0.17
+        ],
+        "stem_and_thorns": [
+          0.39,
+          0.34,
+          0.17,
+          0.29
+        ]
+      },
+      "file": "motion/assets/art-v4/redoute-rosa-gallica-agatha-1817-24-cma.jpg",
+      "bytes": 5409947,
+      "sha256": "708b0dd95186c1c819d1d10067d8d72ebc4cebaf1809dcb29f05939c6a6b05ee",
+      "width": 4331,
+      "height": 5861,
+      "inspected_locally": true,
+      "inspection_method": "Opened the downloaded raster with view_image; no screenshot, generated art or screen capture.",
+      "local_file": "motion/assets/art-v4/rose-botany.jpg",
+      "dimensions": [
+        4331,
+        5861
+      ],
+      "inspected_raster": true,
+      "editorial_role_note": "Canonical rose motif. Full branch crops exclude the plate credits. Catalogue title and inscribed title retained separately; no new species attribution.",
+      "beats": [
+        "f1-b09",
+        "f1-b15",
+        "f1-b24",
+        "f1-b25",
+        "f1-b26",
+        "f1-b27",
+        "f1-b29",
+        "f1-b30",
+        "f1-b32",
+        "f1-b33",
+        "f1-b34",
+        "f1-b35",
+        "f1-b37"
+      ],
+      "alpha_mask": {
+        "file": "motion/assets/art-v4/redoute-rose-mask.svg",
+        "source": "Derived alpha silhouette manually traced from the exact original raster by the collaborating art pass. 35 contour paths preserve inner voids, petals, leaves, stem and thorns.",
+        "viewBox": [
+          0,
+          0,
+          4331,
+          5861
+        ],
+        "sha256": "f277231c4bb36c1e0907e585b7a8f13e88a13d2d26b1c6561bec646ae8ba40dd",
+        "application": "Mask on original img pixels, size 100% × 100%, prior to nondestructive HTML crop. No repaint or changes to original JPEG."
+      }
+    },
+    {
+      "id": "roses",
+      "title": "Roses and Lilies",
+      "creator": "Henri Fantin-Latour",
+      "culture": "",
+      "date": "1888",
+      "institution": "The Metropolitan Museum of Art",
+      "accession": "2001.202.4",
+      "page_url": "https://www.metmuseum.org/art/collection/search/437996",
+      "metadata_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437996",
+      "download_url": "https://images.metmuseum.org/CRDImages/ep/original/DT9200.jpg",
+      "license": "CC0 1.0 / Public Domain (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rights_policy_url": "https://www.metmuseum.org/policies/image-resources",
+      "rights_evidence": {
+        "isPublicDomain": true
+      },
+      "credit_line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 2001, Bequest of Walter H. Annenberg, 2002",
+      "local_file": "motion/assets/art-v4/roses.jpg",
+      "dimensions": [
+        2879,
+        3722
+      ],
+      "sha256": "9b58b985ebd8b1b9a6c18da3ec9f674571cdc7ca97770fec03919f78dfe1a96e",
+      "inspected_raster": true,
+      "editorial_role_note": "Use the pink roses in the lower portion; the tall white flowers in the upper portion are lilies.",
+      "beats": [
+        "f1-b05"
+      ]
+    },
+    {
+      "id": "saint-thomas",
+      "title": "Saint Thomas Aquinas",
+      "creator": "Carlo Crivelli",
+      "date": "1476",
+      "institution": "The National Gallery, London",
+      "accession": "NG788.9",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_%28Crivelli%2C_15th-century%29.jpg",
+      "license": "Public domain (PD-Art / PD-old-100)",
+      "license_url": "https://commons.wikimedia.org/wiki/Template:PD-old-100",
+      "local_reuse": "youtube/salmanticenses/assets/art/saint-thomas-aquinas-crivelli-1476.jpg",
+      "local_file": "motion/assets/art-v4/saint-thomas.jpg",
+      "dimensions": [
+        2813,
+        4226
+      ],
+      "sha256": "67509963a0515b44b6403c7ea33451d96b6e564d9c05e07f7a1e645970afdc0f",
+      "inspected_raster": true,
+      "editorial_role_note": "Crivelli’s 1476 posthumous artistic representation of Saint Thomas Aquinas, not a portrait from life. Gold-ground crops are editorial material surfaces, not pictures of God.",
+      "beats": [
+        "f1-b07"
+      ]
+    }
+  ]
+}

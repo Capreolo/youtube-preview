@@ -1,0 +1,5 @@
+/* Project-local V4: art occupies the canvas; old diagram/frame grammar retires. */
+.craft-frame,.craft-ground{display:none!important}.heading{display:none!important}
+.chapter,.beat{background:#111216!important;background-image:none!important}
+svg.diagram.art-v4{left:0!important;top:0!important;width:100%!important;height:100%!important;overflow:hidden!important}
+svg.diagram.art-v4 text{text-shadow:none!important}

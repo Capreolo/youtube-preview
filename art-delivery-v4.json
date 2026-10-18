@@ -486,6 +486,15 @@
       "source_bytes": 2046057,
       "delivery_bytes": 493156,
       "delivery_sha256": "66db3f15545045b633dc061836e52dd147c26dedd586f3404242cb78113a8ce7"
+    },
+    {
+      "episode": "ps01",
+      "source_file": "ps01-monet-garden.jpg",
+      "source_sha256": "f512c842fc47d46c57469284d07caef2068953bece1123f93220b9c406963fb8",
+      "delivery_file": "episodes-v4/ps01/composition/assets/art-v4/ps01-monet-garden.webp",
+      "source_bytes": 4492357,
+      "delivery_bytes": 2442170,
+      "delivery_sha256": "51cbc28e2015ba89c7190e7e71f1e855d6f533685d3cab2ad1990776eed48237"
     }
   ]
 }

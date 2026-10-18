@@ -1,57 +1,36 @@
-# PS01 — Thales of Miletus: Why Water?: preview credits
+# Visual and production provenance — current V7
 
-Art revision 5 uses historical paintings, botanical plates and museum photographs of real objects, composed as editable HTML motion. Source works are illustrative unless the narration explicitly identifies them. Individual artwork credits and rights are documented below. No AI-generated footage or screenshots were made for this revision. Thumbnails are editable Voyager Design documents composed from the same source artwork and channel typography.
+The current film uses the historical/public-domain material listed below and episode-specific original native SVG material studies. Credits are exclusively in the repository. There is no generated likeness, false facsimile or newly introduced direct quotation. The authentic Summa title leaf, where present, identifies the work only; it is not a quoted prose passage or an animated quotation highlight.
 
-Fonts: the channel's existing EB Garamond display faces, Cinzel and Liberation Sans Regular 2.1.5. Original font license texts are preserved in `composition/assets/fonts/licenses/`, including the Liberation Sans copyright, reserved font names and SIL OFL 1.1 in `liberation-sans-OFL.txt`.
+Historical paintings and material objects remain illustrations. They are not evidence of the author's own room, possession, appearance during life or a reconstructed event. Every modern blank paper/tablet/codex drawing is a visibly constructed explanatory object, never a surviving ancient or medieval manuscript.
 
-Narration: ElevenLabs Eleven v4, using the fixed channel voice. Original music: the project's de-musica counterpoint engine, mixed with narration in REAPER. The preview contains a compressed copy of the current working mix; original lossless audio and editable sessions remain in the private production repository.
+## Historical artwork and source images actively used
 
-SoundFont instruments: GeneralUser GS by S. Christian Collins, rendered with SpessaSynth. The bank is not redistributed here; its License v2.0 is preserved in `../../licenses/GeneralUser_GS.txt`.
+- **Northeaster** — Winslow Homer, 1895; reworked by 1901. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/11130); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). An illustrative painted sea. Modern Maine art, not a view of ancient Ionia or Miletus and not Thales’s observation.
+- **Bowl** — Greek, Attic, ca. 800 BCE. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/240195); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Real ancient bowl as a bounded material object; not attributed to Thales or used to prove his proposal.
+- **Bronze ring** — Greek, late 5th–4th century BCE. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/250713); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Later Greek bronze ring, paired with a bronze vessel to compare forms in one material. Not an observed transformation or Thales’s possession.
+- **Bronze hydria (water jar)** — Greek, ca. 375–350 BCE. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/254776); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Later Greek water vessel for material/form comparison. Not owned by Thales. The Boreas/Oreithyia relief does not document divine-water traditions.
+- **Example of a Wrought Iron Nail** — National Park Service, date unspecified. [Vicksburg National Military Park / National Park Service](https://npgallery.nps.gov/AssetDetail/25c097b2-c0be-4544-b9ff-1d9b2c9fabdf); [Public domain — US federal government / National Park Service](https://creativecommons.org/publicdomain/mark/1.0/). Archaeological wrought-iron nail from the Vicksburg collection, not ancient Greek or Thales’s object. Museum scale/CM printing is excluded. Editorial approach of the photo field illustrates attraction; it is not a filmed or measured magnetic experiment.
+- **Ice Dream** — Florian Maldonado, US Geological Survey, date unspecified. [US Geological Survey](https://www.usgs.gov/media/images/ice-dream); [Public Domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). Photograph of ice on Vitus Lake, Bering Glacier, Alaska. A modern teaching illustration of water/ice; not Ionia, not a documented experiment or theory of Thales. Invisible vapor is represented by empty space, never visible fog.
+- **Magnetite Specimen** — US Geological Survey, date unspecified. [US Geological Survey](https://www.usgs.gov/media/images/magnetite-specimen); [Public Domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). Modern illustrative magnetite specimen. No source test establishes natural magnetization of this particular sample; not claimed to be Thales’s lodestone or an ancient artifact.
+- **The Artist's House at Argenteuil** — Claude Monet, 1873. [Art Institute of Chicago](https://www.artic.edu/artworks/16554/the-artists-house-at-argenteuil); [Public domain (Commons faithful reproduction); museum API marks artwork public domain](https://creativecommons.org/publicdomain/mark/1.0/). Later illustrative planted garden, not Miletus, Thales’s garden or a documentary example of his argument.
 
-GSAP, HyperFrames and (where used) Three.js notices are described in `../../LICENSES.md`. Credits remain outside the video.
+## Original material studies actively used
 
-Geographic orientation uses Natural Earth public-domain contemporary coastlines, not an ancient political or coastline reconstruction.
+- `ps01-water-vessel.svg` — original editable SVG; 24 paths; used in 15 beats.
+- `ps01-living-shoot.svg` — original editable SVG; 29 paths; used in 7 beats.
+- `ps01-basalt-study.svg` — original editable SVG; 30 paths; used in 13 beats.
+- `ps01-papyrus-roll.svg` — original editable SVG; 52 paths; used in 10 beats.
+- `ps01-wax-tablets.svg` — original editable SVG; 9 paths; used in 7 beats.
+- `ps01-spring-section.svg` — original editable SVG; 16 paths; used in 6 beats.
+- `ps01-fire-brazier.svg` — original editable SVG; 20 paths; used in 1 beats.
 
-## Source production credits
+These are project-authored vector constructions. No public-domain/CC0 licence is asserted for them by this provenance record. Their editable source is `youtube/o0-opera-omnia/research/build_native_art_v7.py`; exact file hashes, per-beat use and limits are in `motion/assets/art-v7/provenance.json`. Internal parts use real source-defined pivots and retain their own material details. They are not downloaded archaeological reconstructions.
 
-# Visual and production provenance
+## Existing production sources
 
-V4 uses acquired public-domain/CC0 artworks and artifact photographs in original editable SVG/HTML compositions. No likeness, facsimile or artwork was generated. Historical art, scientific photographs and source leaves have distinct documented roles; later art does not reconstruct an ancient or medieval scene.
+Fonts: EB Garamond, Cinzel and local Sans; preserved font licences in `motion/assets/fonts/licenses/`. Narration: ElevenLabs Eleven v4, fixed channel voice. Existing audio, scripts, ASR words, durations and REAPER/de-musica music sources are preserved. SoundFont and synthesis credits remain in `music/production-v1/CREDITS.md`. Thumbnail credits remain in `thumbnail/CREDITS.md`.
 
-Fonts: existing channel EB Garamond display faces, Cinzel and system-compatible Sans, copied from the existing Diego Mas / Ferrariense assets. Original font license files are preserved under composition/assets/fonts/licenses/.
+Where present, geographic data is Natural Earth public domain contemporary coastline data, for orientation rather than ancient coastal reconstruction. Existing vector cutout masks derive only from their credited source photographs and preserve external material contours. All removed/archived source records, including prior shared paintings, remain traceable in `research/art-v4-sources.json` with `active_in_revision_7: false`.
 
-Geographic data, where used: Natural Earth public domain contemporary coastlines, for geographic orientation, not ancient political or coastal reconstruction.
-
-Narration: ElevenLabs Eleven v4, fixed channel voice. Timing evidence: locally recognized word anchors, with native records and source model metadata preserved in audio/. Original music: de-musica counterpoint engine; REAPER session and synthesis provenance in music/production-v1/ and audio/mix-v1/.
-
-Source evidence and individual passage identifiers: research/fontes.md. Credits do not appear in the video.
-
-Thumbnail provenance and font licence: thumbnail/CREDITS.md. SoundFont and local synthesis credits: music/production-v1/CREDITS.md.
-
-## V4 — art and material sources
-
-Full acquisition metadata, exact file hashes, per-beat use and limits: [art-sources.json](art-sources.json). Per-beat framing and action: the private production framing inventory.
-
-- **Northeaster** — Winslow Homer, 1895; reworked by 1901. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/11130). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-11130.webp`. An illustrative painted sea. Modern Maine art, not a view of ancient Ionia or Miletus and not Thales’s observation.
-- **Bowl** — Greek, Attic, ca. 800 BCE. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/240195). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-240195.webp`. Real ancient bowl as a bounded material object; not attributed to Thales or used to prove his proposal.
-- **Bronze ring** — Greek, late 5th–4th century BCE. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/250713). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-250713.webp`. Later Greek bronze ring, paired with a bronze vessel to compare forms in one material. Not an observed transformation or Thales’s possession.
-- **Bronze hydria (water jar)** — Greek, ca. 375–350 BCE. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/254776). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-254776.webp`. Later Greek water vessel for material/form comparison. Not owned by Thales. The Boreas/Oreithyia relief does not document divine-water traditions.
-- **[Still Life with Books]** — Attributed to William Notman, 1870s–80s. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/286175). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-286175.webp`. Real nineteenth-century library material. The photographed volumes are not editions of the named Thomistic works and not a medieval library.
-- **Wheat Field with Cypresses** — Vincent van Gogh, 1889. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/436535). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-436535.webp`. Illustrative painted vegetation and sky. Not ancient Ionia or a view of Miletus.
-- **Aristotle with a Bust of Homer** — Rembrandt (Rembrandt van Rijn), 1653. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/437394). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-437394.webp`. Later iconography of Aristotle, never a portrait of Thales, a contemporary likeness, or a historical encounter.
-- **Example of a Wrought Iron Nail** — National Park Service, date not supplied. Vicksburg National Military Park / National Park Service. [Source](https://npgallery.nps.gov/AssetDetail/25c097b2-c0be-4544-b9ff-1d9b2c9fabdf). [Public domain — US federal government / National Park Service](https://creativecommons.org/publicdomain/mark/1.0/). Local: `composition/assets/art-v4/nps-iron-nail.webp`. Archaeological wrought-iron nail from the Vicksburg collection, not ancient Greek or Thales’s object. Museum scale/CM printing is excluded. Editorial approach of the photo field illustrates attraction; it is not a filmed or measured magnetic experiment.
-- **Provence or French Rose** — Henri Joseph Redouté (French, 1766–1853), 1817–1824. The Cleveland Museum of Art. [Source](https://www.clevelandart.org/art/1943.139). [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/redoute-rose.webp`. Illustrative botanical object, bloom, leaves and stem. Not a cultivar owned or described by Saint Thomas or Thales. Crops exclude all printed plate lettering.
-- **Ice Dream** — Florian Maldonado, US Geological Survey, date not supplied. US Geological Survey. [Source](https://www.usgs.gov/media/images/ice-dream). [Public Domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). Local: `composition/assets/art-v4/usgs-ice.webp`. Photograph of ice on Vitus Lake, Bering Glacier, Alaska. A modern teaching illustration of water/ice; not Ionia, not a documented experiment or theory of Thales. Invisible vapor is represented by empty space, never visible fog.
-- **Magnetite Specimen** — US Geological Survey, date not supplied. US Geological Survey. [Source](https://www.usgs.gov/media/images/magnetite-specimen). [Public Domain](https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits). Local: `composition/assets/art-v4/usgs-magnetite.webp`. Modern illustrative magnetite specimen. No source test establishes natural magnetization of this particular sample; not claimed to be Thales’s lodestone or an ancient artifact.
-
-Natural Earth geographic data are public domain. Only the three dedicated Miletus scenes use a factual map; its modern coastline is labelled. The sediment inset is explicitly schematic.
-
-The separate `composition/assets/art-v4/redoute-rose-mask.svg` is an editable vector silhouette derived from the CC0 Cleveland plate; source rasters remain intact. Original foliate flourishes (O0), broken meanders (PS01), selected fine divisio marks and explanatory connectors are authored in this repository, not copied historical documents. Their word cues are recorded in the per-beat inventory and use the existing seek-safe runtime.
-
-No credits or source names are added inside the video. Audio, narrator text and source research are preserved. No screenshots, video renders or paid generation calls were made for this revision.
-
-## V5 — four additional polish rounds
-
-Source rasters, narration, ASR and audio remain unchanged. No new raster/font or paid media was acquired. New editable source-aligned masks and their primary-source licences are documented in `composition/assets/art-v5/ledger.json` and `composition/assets/art-v5/CREDITS.md`. Objects are isolated from their photographic ground; ambient art fuses organically into the canvas.
-
-The project-local `composition/assets/polish-v5.js` adapter adds actual source-part articulation, material-contour drawing and symbolic flow on the existing paused timeline. Analytical book/page layers, botanical parts and question relations are editorial demonstrations, not documentary motion or a measured experiment. Human faces remain intact. No credits are inserted into the video.
+The complete 90-beat source audit is split per episode in `research/revision-v7-audit.json`; each episode's current compositions and actions are in `research/visual-v4-elements.json`. No screenshot, video render, browser session or paid generation was used by this revision worker. Native checks are performed separately and serially by the root agent; earlier V5 checks are historical baselines, not certification of V7.

@@ -1,48 +1,32 @@
-# O0 — The Architecture of Saint Thomas Aquinas’s Works: preview credits
+# Visual and production provenance — current V7
 
-Art revision 5 uses historical paintings, botanical plates and museum photographs of real objects, composed as editable HTML motion. Source works are illustrative unless the narration explicitly identifies them. Individual artwork credits and rights are documented below. No AI-generated footage or screenshots were made for this revision. Thumbnails are editable Voyager Design documents composed from the same source artwork and channel typography.
+The current film uses the historical/public-domain material listed below and episode-specific original native SVG material studies. Credits are exclusively in the repository. There is no generated likeness, false facsimile or newly introduced direct quotation. The authentic Summa title leaf, where present, identifies the work only; it is not a quoted prose passage or an animated quotation highlight.
 
-Fonts: the channel's existing EB Garamond display faces, Cinzel and Liberation Sans Regular 2.1.5. Original font license texts are preserved in `composition/assets/fonts/licenses/`, including the Liberation Sans copyright, reserved font names and SIL OFL 1.1 in `liberation-sans-OFL.txt`.
+Historical paintings and material objects remain illustrations. They are not evidence of the author's own room, possession, appearance during life or a reconstructed event. Every modern blank paper/tablet/codex drawing is a visibly constructed explanatory object, never a surviving ancient or medieval manuscript.
 
-Narration: ElevenLabs Eleven v4, using the fixed channel voice. Original music: the project's de-musica counterpoint engine, mixed with narration in REAPER. The preview contains a compressed copy of the current working mix; original lossless audio and editable sessions remain in the private production repository.
+## Historical artwork and source images actively used
 
-SoundFont instruments: GeneralUser GS by S. Christian Collins, rendered with SpessaSynth. The bank is not redistributed here; its License v2.0 is preserved in `../../licenses/GeneralUser_GS.txt`.
+- **[Still Life with Books]** — Attributed to William Notman, 1870s–80s. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/286175); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Real nineteenth-century library material. The photographed volumes are not editions of the named Thomistic works and not a medieval library.
+- **Saint Jerome in His Study** — Albrecht Dürer, 1514. [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/336229); [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Engraved material study interior. Only windows, beams, bench/books and desk details are used; the identifiable face is excluded. This is not Saint Thomas’s study, a portrait of him, or a page from his works.
+- **Summa theologica — half-title leaf** — Saint Thomas Aquinas (author), 1856 edition. [Internet Archive digitization, Google-book identifier summatheologica06nicogoog](https://archive.org/details/summatheologica06nicogoog); [Public domain historical edition / faithful scan](https://creativecommons.org/publicdomain/mark/1.0/). Authentic title leaf, correctly used only to identify Summa Theologiae. No quoted prose or animated passage highlight is claimed for this title-only leaf.
+- **Saint Thomas Aquinas** — Carlo Crivelli, 1476. [National Gallery, London, NG788.9](https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_%28Crivelli%2C_15th-century%29.jpg); [Public domain (PD-Art, PD-old-100-expired)](https://creativecommons.org/publicdomain/mark/1.0/). Posthumous iconographic painting of Saint Thomas. The held church and open book are real regions of this panel, not documentary architecture of his corpus, a particular manuscript of a named work or a likeness made during his lifetime.
 
-GSAP, HyperFrames and (where used) Three.js notices are described in `../../LICENSES.md`. Credits remain outside the video.
+## Original material studies actively used
 
-## Source production credits
+- `o0-codex.svg` — original editable SVG; 50 paths; used in 10 beats.
+- `o0-quires.svg` — original editable SVG; 27 paths; used in 11 beats.
+- `o0-folded-leaf.svg` — original editable SVG; 18 paths; used in 6 beats.
+- `o0-closed-folio.svg` — original editable SVG; 22 paths; used in 5 beats.
+- `o0-arcade.svg` — original editable SVG; 49 paths; used in 2 beats.
+- `o0-writing-tools.svg` — original editable SVG; 7 paths; used in 7 beats.
+- `o0-pear-study.svg` — original editable SVG; 12 paths; used in 3 beats.
 
-# Visual and production provenance
+These are project-authored vector constructions. No public-domain/CC0 licence is asserted for them by this provenance record. Their editable source is `youtube/o0-opera-omnia/research/build_native_art_v7.py`; exact file hashes, per-beat use and limits are in `motion/assets/art-v7/provenance.json`. Internal parts use real source-defined pivots and retain their own material details. They are not downloaded archaeological reconstructions.
 
-V4 uses acquired public-domain/CC0 artworks and artifact photographs in original editable SVG/HTML compositions. No likeness, facsimile or artwork was generated. Historical art, scientific photographs and source leaves have distinct documented roles; later art does not reconstruct an ancient or medieval scene.
+## Existing production sources
 
-Fonts: existing channel EB Garamond display faces, Cinzel and system-compatible Sans, copied from the existing Diego Mas / Ferrariense assets. Original font license files are preserved under composition/assets/fonts/licenses/.
+Fonts: EB Garamond, Cinzel and local Sans; preserved font licences in `motion/assets/fonts/licenses/`. Narration: ElevenLabs Eleven v4, fixed channel voice. Existing audio, scripts, ASR words, durations and REAPER/de-musica music sources are preserved. SoundFont and synthesis credits remain in `music/production-v1/CREDITS.md`. Thumbnail credits remain in `thumbnail/CREDITS.md`.
 
-Geographic data, where used: Natural Earth public domain contemporary coastlines, for geographic orientation, not ancient political or coastal reconstruction.
+Where present, geographic data is Natural Earth public domain contemporary coastline data, for orientation rather than ancient coastal reconstruction. Existing vector cutout masks derive only from their credited source photographs and preserve external material contours. All removed/archived source records, including prior shared paintings, remain traceable in `research/art-v4-sources.json` with `active_in_revision_7: false`.
 
-Narration: ElevenLabs Eleven v4, fixed channel voice. Timing evidence: locally recognized word anchors, with native records and source model metadata preserved in audio/. Original music: de-musica counterpoint engine; REAPER session and synthesis provenance in music/production-v1/ and audio/mix-v1/.
-
-Source evidence and individual passage identifiers: research/fontes.md. Credits do not appear in the video.
-
-Thumbnail provenance and font licence: thumbnail/CREDITS.md. SoundFont and local synthesis credits: music/production-v1/CREDITS.md.
-
-## V4 — art and material sources
-
-Full acquisition metadata, exact file hashes, per-beat use and limits: [art-sources.json](art-sources.json). Per-beat framing and action: the private production framing inventory.
-
-- **[Still Life with Books]** — Attributed to William Notman, 1870s–80s. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/286175). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-286175.webp`. Real nineteenth-century library material. The photographed volumes are not editions of the named Thomistic works and not a medieval library.
-- **Saint Jerome in His Study** — Albrecht Dürer, 1514. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/336229). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-336229.webp`. Engraved material study interior. Only windows, beams, bench/books and desk details are used; the identifiable face is excluded. This is not Saint Thomas’s study, a portrait of him, or a page from his works.
-- **Aristotle with a Bust of Homer** — Rembrandt (Rembrandt van Rijn), 1653. The Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/437394). [CC0 1.0 / public-domain artwork image](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/met-437394.webp`. Later iconography of Aristotle, never a portrait of Thales, a contemporary likeness, or a historical encounter.
-- **Provence or French Rose** — Henri Joseph Redouté (French, 1766–1853), 1817–1824. The Cleveland Museum of Art. [Source](https://www.clevelandart.org/art/1943.139). [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Local: `composition/assets/art-v4/redoute-rose.webp`. Illustrative botanical object, bloom, leaves and stem. Not a cultivar owned or described by Saint Thomas or Thales. Crops exclude all printed plate lettering.
-- **Summa theologica — half-title leaf** — Saint Thomas Aquinas (author), 1856 edition. Internet Archive digitization, Google-book identifier summatheologica06nicogoog. [Source](https://archive.org/details/summatheologica06nicogoog). [Public domain historical edition / faithful scan](https://creativecommons.org/publicdomain/mark/1.0/). Local: `composition/assets/art-v4/summa-leaf-4.webp`. Authentic title leaf, correctly used only to identify Summa Theologiae. No quoted prose or animated passage highlight is claimed for this title-only leaf.
-- **Saint Thomas Aquinas** — Carlo Crivelli, 1476. National Gallery, London, NG788.9. [Source](https://commons.wikimedia.org/wiki/File:Saint_Thomas_Aquinas_%28Crivelli%2C_15th-century%29.jpg). [Public domain (PD-Art, PD-old-100-expired)](https://creativecommons.org/publicdomain/mark/1.0/). Local: `composition/assets/art-v4/thomas-crivelli-1476.webp`. Posthumous iconographic painting of Saint Thomas. The held church and open book are real regions of this panel, not documentary architecture of his corpus, a particular manuscript of a named work or a likeness made during his lifetime.
-
-The separate `composition/assets/art-v4/redoute-rose-mask.svg` is an editable vector silhouette derived from the CC0 Cleveland plate; source rasters remain intact. Original foliate flourishes (O0), broken meanders (PS01), selected fine divisio marks and explanatory connectors are authored in this repository, not copied historical documents. Their word cues are recorded in the per-beat inventory and use the existing seek-safe runtime.
-
-No credits or source names are added inside the video. Audio, narrator text and source research are preserved. No screenshots, video renders or paid generation calls were made for this revision.
-
-## V5 — four additional polish rounds
-
-Source rasters, narration, ASR and audio remain unchanged. No new raster/font or paid media was acquired. New editable source-aligned masks and their primary-source licences are documented in `composition/assets/art-v5/ledger.json` and `composition/assets/art-v5/CREDITS.md`. Objects are isolated from their photographic ground; ambient art fuses organically into the canvas.
-
-The project-local `composition/assets/polish-v5.js` adapter adds actual source-part articulation, material-contour drawing and symbolic flow on the existing paused timeline. Analytical book/page layers, botanical parts and question relations are editorial demonstrations, not documentary motion or a measured experiment. Human faces remain intact. No credits are inserted into the video.
+The complete 90-beat source audit is split per episode in `research/revision-v7-audit.json`; each episode's current compositions and actions are in `research/visual-v4-elements.json`. No screenshot, video render, browser session or paid generation was used by this revision worker. Native checks are performed separately and serially by the root agent; earlier V5 checks are historical baselines, not certification of V7.

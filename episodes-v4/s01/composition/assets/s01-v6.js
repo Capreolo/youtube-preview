@@ -7,6 +7,7 @@
   const cue=(b,word)=>T.words.find(w=>w.start>=T.beats[b].spoken_start-.001&&w.start<T.beats[b].spoken_end&&clean(w.text)===clean(word))?.start??T.beats[b].start;
   window.__hf.buildReady['s01-main']=Promise.all([document.fonts.ready,window.S01RoseReady]).then(([,rose])=>{
     const tl=gsap.timeline({paused:true,defaults:{ease:'sine.inOut'}});
+    tl.set('#closing-first,#closing-last',{y:18},0);
     function appear(target,at,duration=.9){tl.to(target,{opacity:1,duration},at)}
     function leave(target,at,duration=.8){tl.to(target,{opacity:0,duration},at)}
     function draw(target,at,duration=1.5,stagger=.09){
@@ -70,8 +71,8 @@
     tl.set('#observer',{x:-12,y:430,scale:1.04,opacity:0},49);
     tl.to('#observer',{x:0,y:380,scale:1.04,opacity:1,duration:2},50);
     appear('#closing',50.7,.8);
-    tl.fromTo('#closing-first',{opacity:0,y:18},{opacity:1,y:0,duration:1.2,immediateRender:false},51.05);
-    tl.fromTo('#closing-last',{opacity:0,y:18},{opacity:1,y:0,duration:1.2,immediateRender:false},54.6);
+    tl.to('#closing-first',{opacity:1,y:0,duration:1.2},51.05);
+    tl.to('#closing-last',{opacity:1,y:0,duration:1.2},54.6);
     tl.to('#s01-observer-page',{rotation:.35,svgOrigin:'1242 2598',duration:1.9},52.1);
     tl.to('#s01-observer-page',{rotation:0,duration:2.2},54);
     tl.to('#observer-halo',{opacity:.8,y:370,duration:2},51.5);
@@ -80,7 +81,7 @@
     const clock={time:0};
     tl.to(clock,{time:58,duration:58,ease:'none',onUpdate:()=>rose.renderAt(clock.time)},0);
     window.S01Rose=rose;
-    window.S01Art={version:6,scenes:1,visualModes:6,canonicalRose3D:true,observer:'Van der Neer — The Reader',continuousStage:true,timing:T};
+    window.S01Art={version:7,scenes:1,visualModes:6,canonicalRose3D:true,observer:'Van der Neer — The Reader',continuousStage:true,timing:T};
     window.__timelines['s01-main']=tl;
   });
 })();

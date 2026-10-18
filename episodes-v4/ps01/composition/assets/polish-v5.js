@@ -63,6 +63,31 @@
           {attr: {cx: point[0], cy: point[1]}, duration: step, ease: 'none'}, at + step * index));
         tl.to(dot, {opacity: 0, duration: .25, ease: 'sine.inOut'}, at + duration);
       });
+      el.querySelectorAll('[data-v7-linked-motion]').forEach(path => {
+        const spec=JSON.parse(path.dataset.v7LinkedMotion);
+        const start=spec.start*scale;
+        const duration=Math.max(.1,Math.min(spec.duration*scale,beat.duration-start-.3));
+        const d=(dx,dy)=>`M${spec.moving[0]+dx},${spec.moving[1]+dy} L${spec.fixed[0]},${spec.fixed[1]}`;
+        // Match the existing .move artifact's exact clock and ease. Only the
+        // endpoint changes; the source remains on the same original stone.
+        tl.fromTo(path,{attr:{d:d(0,0)}},{attr:{d:d(spec.dx,spec.dy)},duration,ease:'power2.inOut'},beat.start+start);
+      });
+      el.querySelectorAll('[data-v7-native-part]').forEach((part,i)=>{
+        const start=Math.min(beat.duration-1.25,Number(part.dataset.v7At||1)*scale);
+        const at=beat.start+Math.max(.1,start),duration=Math.max(.3,Math.min(1.6,beat.duration-start-.4));
+        const kind=part.dataset.v7NativePart,origin=part.dataset.v7NativeOrigin||'800 800';
+        if(kind==='root-trace'||kind==='water-current'){
+          const length=part.getTotalLength();
+          tl.fromTo(part,{strokeDasharray:length,strokeDashoffset:length},{strokeDashoffset:0,duration,ease:'power1.inOut'},at);
+        }else if(kind==='quire'){
+          const n=Number(part.dataset.v7NativeIndex||0);
+          tl.fromTo(part,{y:(n-1)*12},{y:0,duration,ease:'sine.inOut'},at+n*.12);
+        }else if(kind==='codex-page'||kind==='reed'||kind==='shoot-leaf'){
+          tl.fromTo(part,{rotation:kind==='shoot-leaf'?(i%2?.5:-.5):(kind==='codex-page'?-1.2:-.35),svgOrigin:origin},{rotation:0,svgOrigin:origin,duration,ease:'sine.inOut'},at);
+        }else if(kind==='water-surface'||kind==='flame'||kind==='flame-inner'){
+          tl.fromTo(part,{scaleY:.96,svgOrigin:origin},{scaleY:1,svgOrigin:origin,duration,ease:'sine.inOut'},at);
+        }
+      });
       if (/^ps01-c02-b0[123]$/.test(beat.id)) {
         const marker = el.querySelector('circle');
         if (marker) tl.fromTo(marker, {attr: {r: 2}},

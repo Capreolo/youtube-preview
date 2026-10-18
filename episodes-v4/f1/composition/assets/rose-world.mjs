@@ -1,5 +1,5 @@
-import * as THREE from './vendor/three.module.js';
-import bookType from './book-title-data.mjs';
+import * as THREE from './vendor/three.module.js?v=20261018-detail-7';
+import bookType from './book-title-data.mjs?v=20261018-detail-7';
 
 // All positions derive from scene time. No RAF, random seed, external assets or
 // elapsed-time simulation is involved in this scene.

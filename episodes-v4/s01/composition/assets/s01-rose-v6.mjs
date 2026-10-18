@@ -1,5 +1,5 @@
-import * as THREE from './vendor/three.module.js';
-import {createRose} from './s01-rose-geometry-v6.mjs';
+import * as THREE from './vendor/three.module.js?v=20261018-detail-7';
+import {createRose} from './s01-rose-geometry-v6.mjs?v=20261018-detail-7';
 
 // The original channel rose is restaged for S01. Every pose is a function of
 // narration time; there is no wall clock, playback loop or perpetual turntable.
@@ -56,7 +56,8 @@ export async function createS01Rose(canvas){
     hemi.intensity=1.9-dark*.38;rim.intensity=1.1+dark*.65;
     rose.group.updateMatrixWorld(true);
     const hook=(rose.hooks||[])[2];
-    const thorn=hook?project(hook.localToWorld(new THREE.Vector3(.17,.08,0))):{x:540,y:1000};
+    const focus=hook?.userData.tipLocal||[.17,.08,0];
+    const thorn=hook?project(hook.localToWorld(new THREE.Vector3(...focus))):{x:540,y:1000};
     const ring=document.getElementById('thorn-focus');
     if(ring)ring.setAttribute('transform',`translate(${thorn.x-354} ${thorn.y-1080})`);
     const label=document.getElementById('thorn-label');

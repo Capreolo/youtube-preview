@@ -30,7 +30,7 @@ html[data-episode="f1"] .v4-organic-corner{--orn-ink:#7FAAD0;--orn-fill:#B08A4E1
 .v4-organic-corner .v4-organic-vein{stroke-width:1.0;opacity:.8}
 
 /* Museum original preserved; alpha silhouette follows original pixel geometry. */
-.v4-art img[src*="/rose-botany."]{-webkit-mask-image:url('art-v4/redoute-rose-mask.svg?v=20261018-four-rounds-5');mask-image:url('art-v4/redoute-rose-mask.svg?v=20261018-four-rounds-5');-webkit-mask-size:100% 100%;mask-size:100% 100%;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;mask-mode:alpha}
+.v4-art img[src*="/rose-botany."]{-webkit-mask-image:url(art-v4/redoute-rose-mask.svg?v=20261018-detail-7);mask-image:url(art-v4/redoute-rose-mask.svg?v=20261018-detail-7);-webkit-mask-size:100% 100%;mask-size:100% 100%;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;mask-mode:alpha}
 
 .v4-art:has(img[src*="/rose-botany."]){box-shadow:none}
 
@@ -41,8 +41,8 @@ html[data-episode="f1"] .v4-organic-corner{--orn-ink:#7FAAD0;--orn-fill:#B08A4E1
 .v4-art{box-shadow:none;border:0;outline:0;background:transparent}
 .v5-painted-edge,.v5-paper-study,.v5-paper-strip,.v5-gilt-panel,.v5-brass-study,.v5-instrument-study,.v5-ceramic-study,.v5-stone-study,.v5-stone-close,.v5-tool-study,.v5-sculpture-study,.v5-gold-ground{box-shadow:none;border:0;outline:0;background:transparent}
 .v4-scene[data-school="thomist"] .v5-paper-study{background:transparent}
-.v5-painted-field{mask-image:url('art-v4/editorial-field-mask.svg?v=20261018-four-rounds-5');-webkit-mask-image:url('art-v4/editorial-field-mask.svg?v=20261018-four-rounds-5');mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat}
-.v5-painted-field.v5-field-b{mask-image:url('art-v4/editorial-field-mask-b.svg?v=20261018-four-rounds-5');-webkit-mask-image:url('art-v4/editorial-field-mask-b.svg?v=20261018-four-rounds-5')}
+.v5-painted-field{mask-image:url(art-v4/editorial-field-mask.svg?v=20261018-detail-7);-webkit-mask-image:url(art-v4/editorial-field-mask.svg?v=20261018-detail-7);mask-size:100% 100%;-webkit-mask-size:100% 100%;mask-repeat:no-repeat;-webkit-mask-repeat:no-repeat}
+.v5-painted-field.v5-field-b{mask-image:url(art-v4/editorial-field-mask-b.svg?v=20261018-detail-7);-webkit-mask-image:url(art-v4/editorial-field-mask-b.svg?v=20261018-detail-7)}
 .v5-cutout-object{overflow:visible}
 .v5-cutout-object img{filter:drop-shadow(4px 14px 12px #0005)}
 .v5-art-part img{filter:none}
@@ -61,3 +61,17 @@ html[data-episode="f1"] .v4-organic-corner{--orn-ink:#7FAAD0;--orn-fill:#B08A4E1
 
 .v5-rose-parts{position:absolute;inset:0;filter:drop-shadow(2px 8px 8px #0004)}
 .v5-rose-parts img{filter:none!important}
+
+/* V7 original engravings and causal paths. No photographic cards or ornamental grids. */
+.v7-scene{background:#0A1526}.v7-scene[data-school="thomist"]{background:#05070D}
+.v7-graph{z-index:2;fill:none;overflow:visible;stroke-linecap:round;stroke-linejoin:round}
+.v7-graph path{stroke:#D9B45F;stroke-width:2.4;vector-effect:non-scaling-stroke}
+.v7-graph .v7-stroke{stroke-dasharray:1;stroke-dashoffset:1}
+.v7-enter{opacity:0}.v7-bar{opacity:0;vector-effect:non-scaling-stroke}
+.v7-scene .v4-type{z-index:3;letter-spacing:-.018em}
+
+/* Original material studies have transparent silhouettes; no page/card masks. */
+.v7-native-art{mask-image:none!important;-webkit-mask-image:none!important;box-shadow:none;filter:none}
+.v7-native-art>.v7-native-plane{overflow:visible}
+.v7-native-art svg{pointer-events:none;max-width:none}
+.v7-native-art .v7-vector-act{will-change:transform}

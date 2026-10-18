@@ -1,20 +1,6 @@
-# C1 — Analogy: From Proportion to Being: preview credits
-
-Art revision 5 uses historical paintings, botanical plates and museum photographs of real objects, composed as editable HTML motion. Source works are illustrative unless the narration explicitly identifies them. Individual artwork credits and rights are documented below. No AI-generated footage or screenshots were made for this revision. Thumbnails are editable Voyager Design documents composed from the same source artwork and channel typography.
-
-Fonts: the channel's existing EB Garamond display faces, Cinzel and Liberation Sans Regular 2.1.5. Original font license texts are preserved in `composition/assets/fonts/licenses/`, including the Liberation Sans copyright, reserved font names and SIL OFL 1.1 in `liberation-sans-OFL.txt`.
-
-Narration: ElevenLabs Eleven v4, using the fixed channel voice. Original music: the project's de-musica counterpoint engine, mixed with narration in REAPER. The preview contains a compressed copy of the current working mix; original lossless audio and editable sessions remain in the private production repository.
-
-SoundFont instruments: GeneralUser GS by S. Christian Collins, rendered with SpessaSynth. The bank is not redistributed here; its License v2.0 is preserved in `../../licenses/GeneralUser_GS.txt`.
-
-GSAP, HyperFrames and (where used) Three.js notices are described in `../../LICENSES.md`. Credits remain outside the video.
-
-## Source production credits
-
 # Visual and production provenance — V4
 
-Image-led compositions use actual open-access artworks and artifacts. Every original image is stored locally; no generated likeness, fictitious facsimile, paid generation or screen capture was used. Crops are nondestructive HTML viewports. Detailed source records, hashes, dimensions and per-scene uses: `art-sources.json`.
+Image-led compositions use actual open-access artworks and artifacts. Every original image is stored locally; no generated likeness, fictitious facsimile, paid generation or screen capture was used. Crops are nondestructive HTML viewports. Detailed source records, hashes, dimensions and per-scene uses: `research/art-v4-sources.json`.
 
 ## Artworks and photography
 
@@ -41,13 +27,13 @@ Narration: the existing ElevenLabs Eleven v4 recordings and fixed channel castin
 
 Original music: the de-musica counterpoint engine; synthesis provenance and REAPER session in `music/production-v1/` and `audio/mix-v1/`. Music and narration are not modified by this visual pass.
 
-Fonts use the channel’s existing locally hosted Display (EB Garamond), DisplayItalic, Epigraph (Cinzel) and Sans resources. Original licenses remain in `composition/assets/fonts/licenses/`.
+Fonts use the channel’s existing locally hosted Display (EB Garamond), DisplayItalic, Epigraph (Cinzel) and Sans resources. Original licenses remain in `motion/assets/fonts/licenses/`.
 
 Scientific and philosophical source evidence remains in `research/fontes.md`; the artworks illustrate the exposition and are not substituted for doctrinal evidence. All current exposition is paraphrase. Direct quotations are not added.
 
 Thumbnail provenance: `thumbnail/CREDITS.md`. SoundFont and synthesis credits: `music/production-v1/CREDITS.md`. Credits are kept outside the video.
 
-The Redouté original stays intact. A separately traced alpha silhouette (`composition/assets/art-v4/redoute-rose-mask.svg`, 4331 × 5861) removes the paper only when the branch is used as an isolated object; it follows original image pixels through each crop.
+The Redouté original stays intact. A separately traced alpha silhouette (`motion/assets/art-v4/redoute-rose-mask.svg`, 4331 × 5861) removes the paper only when the branch is used as an isolated object; it follows original image pixels through each crop.
 
 ## V5 — cutouts, object layers and editorial animation
 
@@ -60,7 +46,7 @@ boat, flower and book page) are separate editable masks of the actual pictured
 objects. Irregular editorial masks integrate the remaining painted fields; no
 rectangular backing cards, generated images or invented historical footage are
 used. Mask files and their hashes are recorded in
-`composition/assets/art-v4/v5-cutouts-provenance.json`.
+`motion/assets/art-v4/v5-cutouts-provenance.json`.
 
 The canonical rose uses the exact original Cleveland Museum of Art 1943.139
 raster, **Provence or French Rose**, with the plate inscription retained in the
@@ -73,7 +59,7 @@ remain at their actual source locations. Small finite articulations are editoria
 movements of a historical botanical plate, not generated biological motion or a
 growth time-lapse. The rose stays physically fixed in scenes about abstraction,
 consideration and dependence; the explanatory attention or relation moves.
-The local partition and pivots are in `composition/assets/art-v4/rose-parts-v5.json`.
+The local partition and pivots are in `motion/assets/art-v4/rose-parts-v5.json`.
 
 The lunar transformation uses only Alpsdake's explicitly CC0 2025 exposures,
 cells **02 → 07 → 10 → 20** from the verified montage. The 2018 reference image
@@ -98,3 +84,9 @@ render, screenshot or credit inside the video was added. The four additional
 source review rounds and their limits are recorded element by element in
 `research/polish-four-rounds-v5.json`; native technical checks are separate from
 perceptual review of the live composition.
+
+## V7 — Original episode artwork and use
+
+Original editable editorial vector studies are authored in `original_art_v7.py` and applied selectively by `build-visual-v7.py`. The material/petal/leaf/measurement/gesture/work layers are original illustrations, not attributed historical portraits, source-page reproductions or evidence for an additional philosophical thesis. Preserved museum source files retain their original rights records below/in `research/art-v4-sources.json`.
+
+The established Diego Mas botanical symbol returns only in c1-46, where the narration explicitly references that episode. Other plant examples are original episode-specific studies. All source/artist/license credits remain in repository files, never on screen. Active source usage and the narrow canonical sharing exception: `research/revision-v7-art-ownership.json`.
